@@ -38,7 +38,6 @@ soupsieve==1.7.3
 tensorboard==1.12.2
 tensorflow==1.12.0
 termcolor==1.1.0
-tf-metrics==0.0.1
 tinycss2==0.6.1
 -e git+git@github.com:howl-anderson/tokenizer_tools.git@0d0d41fae58648386b1780cc504ebe569dc94bce#egg=tokenizer_tools
 WeasyPrint==44
