@@ -1,0 +1,19 @@
+h1 {{ title }}
+
+div
+    p.
+        整体句子准确率: {{ sentence.correct_rate }}; 测试句子数量: {{ sentence.number }};
+
+table
+    thead
+        tr
+            td tag
+            td 数量
+            td 准确率
+    tbody
+        {% for name, tag in tags.items() %}
+        tr
+            td {{ name }}
+            td {{ tag.number }}
+            td {{ tag.correct_rate }}
+        {% endfor %}
