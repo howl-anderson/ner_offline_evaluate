@@ -19,6 +19,7 @@ html = pug_to_html(
 )
 
 # Remove old file
-os.remove('report.pdf')
+if os.path.exists('report.pdf'):
+    os.remove('report.pdf')
 
 write_report(html, "report.pdf")
