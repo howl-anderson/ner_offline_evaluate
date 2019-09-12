@@ -5,7 +5,7 @@ import sys
 from tokenizer_tools.conllz.iterator_reader import conllx_iterator_reader
 from tokenizer_tools.tagset.NER.BILUO import BILUOSequenceEncoderDecoder
 
-from seq2annotation.server.http import Server
+from seq2annotation.server.tensorflow_inference import Inference
 from tokenizer_tools.tagset.offset.sequence import Sequence
 
 
@@ -22,7 +22,7 @@ def evaluate_offline(model, corpus):
         gold = sample
 
         try:
-            result, _, _ = model(user_input, raise_exception=True)
+            _, result, _, _ = model(user_input, raise_exception=True)
         except ValueError:
             result = Sequence(user_input)
 
@@ -65,10 +65,10 @@ def read_corpus(data_file):
 
 
 if __name__ == "__main__":
-    server = Server(sys.argv[1])
+    server = Inference(sys.argv[1])
     corpus = read_corpus(sys.argv[2])
 
-    sample_total, sample_right, span_total, span_right = evaluate_offline(server.serve, corpus)
+    sample_total, sample_right, span_total, span_right = evaluate_offline(server.infer, corpus)
     sample_correct_rate = len(sample_right) / len(sample_total)
 
     span_correct_rate = dict()
