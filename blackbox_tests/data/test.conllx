@@ -1,0 +1,8482 @@
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6d647"}
+我	O
+想	O
+听	O
+雪	B-歌曲名
+牦	I-歌曲名
+牛	L-歌曲名
+。	O
+
+#	{"label": "INTENT_AC_TemperatureMin", "id": "5d3017197b7e066678c6978f"}
+我	O
+要	O
+把	O
+主	B-座椅位置
+驾	L-座椅位置
+的	O
+空	O
+调	O
+调	O
+为	O
+最	B-温度调节值
+低	L-温度调节值
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d30170b7b7e066678c4b0b9"}
+查	O
+看	O
+一	O
+下	O
+西	B-地点
+安	L-地点
+明	B-日期时间
+天	L-日期时间
+的	O
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c989ab"}
+导	O
+航	O
+到	O
+大	B-地点
+理	I-地点
+嘉	I-地点
+源	I-地点
+吉	I-地点
+利	I-地点
+4	I-地点
+s	I-地点
+店	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9b16d"}
+导	O
+航	O
+到	O
+水	B-地点
+城	I-地点
+印	I-地点
+象	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9d2c4"}
+导	O
+航	O
+到	O
+若	B-地点
+尔	I-地点
+盖	I-地点
+大	I-地点
+草	I-地点
+原	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d30170c7b7e066678c4d406"}
+9	B-日期时间
+月	I-日期时间
+2	I-日期时间
+2	I-日期时间
+日	L-日期时间
+天	O
+气	O
+怎	O
+么	O
+样	O
+？	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017167b7e066678c61622"}
+我	O
+想	O
+把	O
+左	B-座椅位置
+侧	L-座椅位置
+的	O
+温	O
+度	O
+设	O
+置	O
+到	O
+2	B-温度值
+5	I-温度值
+度	L-温度值
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016ef7b7e066678c24720"}
+导	O
+航	O
+到	O
+保	B-地点
+安	I-地点
+镇	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017237b7e066678c83f0e"}
+唱	O
+一	O
+首	O
+像	B-歌曲名
+我	I-歌曲名
+这	I-歌曲名
+样	I-歌曲名
+的	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775784f11d965140c487a4"}
+到	O
+大	B-地点
+坪	I-地点
+时	I-地点
+代	I-地点
+天	I-地点
+该	I-地点
+b	I-地点
+座	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fd7b7e066678c35fde"}
+去	O
+合	B-地点
+肥	I-地点
+市	I-地点
+1	I-地点
+0	I-地点
+5	I-地点
+医	I-地点
+院	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017247b7e066678c880d0"}
+帮	O
+我	O
+放	O
+歌	O
+蹦	O
+出	O
+来	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017007b7e066678c3d879"}
+到	O
+关	B-地点
+林	I-地点
+收	I-地点
+费	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fb7b7e066678c32b25"}
+去	O
+高	B-地点
+桥	I-地点
+市	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4ec83"}
+明	B-日期时间
+天	L-日期时间
+武	B-地点
+清	I-地点
+区	L-地点
+的	O
+天	O
+气	O
+怎	O
+么	O
+样	O
+？	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c83ae1"}
+给	O
+我	O
+来	O
+一	O
+首	O
+对	B-歌曲名
+不	I-歌曲名
+起	I-歌曲名
+我	I-歌曲名
+爱	I-歌曲名
+你	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d3017087b7e066678c44e09"}
+南	B-地点
+阳	L-地点
+的	O
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyName", "id": "5d30170e7b7e066678c52274"}
+F	B-收音机电台名
+M	I-收音机电台名
+1	I-收音机电台名
+0	I-收音机电台名
+1	L-收音机电台名
+1	O
+0	O
+7	O
+.	O
+7	O
+1	O
+1	O
+0	O
+7	O
+.	O
+1	O
+1	O
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017147b7e066678c5cb68"}
+打	O
+开	O
+空	O
+调	O
+1	B-温度值
+6	I-温度值
+度	L-温度值
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d30171f7b7e066678c79f45"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+别	O
+人	O
+的	O
+光	B-歌曲名
+辉	I-歌曲名
+岁	I-歌曲名
+月	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c51ddd"}
+查	O
+找	O
+真	B-餐饮
+功	I-餐饮
+夫	L-餐饮
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017157b7e066678c5f580"}
+左	B-座椅位置
+边	L-座椅位置
+的	O
+温	O
+度	O
+设	O
+置	O
+至	O
+2	B-温度值
+5	I-温度值
+度	L-温度值
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fa7b7e066678c30544"}
+到	O
+平	B-地点
+桥	I-地点
+路	I-地点
+口	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8e5b4"}
+给	O
+家	B-人名
+门	I-人名
+李	I-人名
+师	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017267b7e066678c8be78"}
+搜	O
+搜	O
+一	O
+下	O
+附	O
+近	O
+有	O
+什	O
+么	O
+餐	O
+馆	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775780f11d965140c33b61"}
+导	O
+航	O
+导	O
+航	O
+去	O
+一	B-地点
+毛	I-地点
+钱	I-地点
+超	I-地点
+市	L-地点
+。	O
+
+#	{"label": "INTENT_VEH_CloseSunroof", "id": "5d775784f11d965140c47f9b"}
+关	O
+闭	O
+天	O
+窗	O
+那	O
+种	O
+功	O
+能	O
+，	O
+硬	O
+件	O
+技	O
+能	O
+操	O
+作	O
+老	O
+师	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f67b7e066678c287a9"}
+合	B-地点
+肥	I-地点
+火	I-地点
+车	I-地点
+站	L-地点
+怎	O
+么	O
+走	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f77b7e066678c293c1"}
+到	O
+宽	B-地点
+城	I-地点
+县	I-地点
+龙	I-地点
+祥	I-地点
+花	I-地点
+园	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyName", "id": "5d3017167b7e066678c629fe"}
+请	O
+给	O
+我	O
+播	O
+放	O
+广	O
+西	O
+交	B-收音机节目类型名
+通	L-收音机节目类型名
+电	O
+台	O
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c53df6"}
+附	O
+近	O
+有	O
+什	O
+么	O
+好	B-评价值
+吃	L-评价值
+的	O
+地	O
+方	O
+？	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d77578af11d965140c87772"}
+难	B-歌曲名
+念	I-歌曲名
+的	I-歌曲名
+经	L-歌曲名
+音	O
+乐	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775787f11d965140c63b53"}
+去	O
+前	B-地点
+张	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5914e"}
+嗯	O
+，	O
+最	O
+近	O
+最	B-排序条件
+近	L-排序条件
+的	O
+酒	O
+店	O
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017187b7e066678c66863"}
+给	O
+我	O
+把	O
+副	B-座椅位置
+驾	L-座椅位置
+空	O
+调	O
+温	O
+度	O
+为	O
+2	O
+5	O
+档	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c3f2bd"}
+我	O
+要	O
+到	O
+君	B-地点
+山	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017247b7e066678c877ad"}
+帮	O
+我	O
+放	O
+林	B-人名
+俊	I-人名
+杰	L-人名
+歌	O
+曲	O
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c523fb"}
+烤	B-餐饮
+鱼	L-餐饮
+的	O
+地	O
+方	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77577ff11d965140c3201e"}
+导	O
+航	O
+去	O
+虢	B-地点
+镇	I-地点
+兰	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c727df"}
+播	O
+放	O
+三	B-歌曲名
+国	I-歌曲名
+热	I-歌曲名
+潮	L-歌曲名
+的	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d30170c7b7e066678c4c8ef"}
+导	O
+航	O
+到	O
+雍	B-地点
+江	I-地点
+御	I-地点
+庭	L-地点
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d775784f11d965140c46d49"}
+空	O
+调	O
+温	O
+度	O
+调	O
+整	O
+为	O
+2	B-温度值
+2	I-温度值
+度	L-温度值
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c72e79"}
+播	O
+放	O
+冰	B-专辑名
+山	I-专辑名
+上	I-专辑名
+的	I-专辑名
+来	I-专辑名
+客	L-专辑名
+的	O
+主	B-音乐类型
+题	I-音乐类型
+曲	L-音乐类型
+。	O
+
+#	{"label": "INTENT_AC_FanSetMode", "id": "5d3017197b7e066678c69fbd"}
+开	O
+一	O
+下	O
+吹	B-风向模式名
+脸	I-风向模式名
+除	I-风向模式名
+霜	I-风向模式名
+模	I-风向模式名
+式	L-风向模式名
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f67b7e066678c28ab3"}
+去	O
+附	O
+近	O
+的	O
+山	B-地点
+顶	L-地点
+上	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c71b05"}
+播	O
+放	O
+一	O
+点	O
+关	O
+于	O
+结	O
+婚	O
+的	O
+歌	O
+曲	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c378d3"}
+我	O
+要	O
+去	O
+白	B-地点
+云	I-地点
+区	I-地点
+元	I-地点
+下	I-地点
+田	I-地点
+南	I-地点
+路	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775780f11d965140c334b9"}
+导	O
+航	O
+城	B-地点
+乡	I-地点
+路	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77577ff11d965140c3057f"}
+导	O
+航	O
+去	O
+成	B-地点
+都	I-地点
+东	I-地点
+站	I-地点
+进	I-地点
+站	I-地点
+口	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c526db"}
+田	B-餐饮
+庙	I-餐饮
+烧	I-餐饮
+鸡	L-餐饮
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017087b7e066678c4481f"}
+导	O
+航	O
+到	O
+涟	B-地点
+源	I-地点
+市	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c70c72"}
+据	O
+说	O
+听	O
+什	O
+么	O
+歌	O
+听	O
+了	O
+，	O
+我	O
+想	O
+听	O
+什	O
+么	O
+歌	O
+可	O
+以	O
+了	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fd7b7e066678c36bc2"}
+到	O
+上	O
+博	O
+时	O
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5b5e2"}
+浦	B-地点
+江	L-地点
+塔	B-酒店名称
+山	I-酒店名称
+宾	I-酒店名称
+馆	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f77b7e066678c29c14"}
+导	O
+航	O
+去	O
+永	B-地点
+川	I-地点
+区	I-地点
+永	I-地点
+荣	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4e5ff"}
+打	O
+开	O
+洋	B-地点
+县	L-地点
+天	O
+气	O
+预	O
+报	O
+。	O
+
+#	{"label": "INTENT_AC_TemperatureDecrease", "id": "5d775783f11d965140c43302"}
+嗯	O
+，	O
+我	O
+有	O
+点	O
+热	O
+了	O
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775786f11d965140c578b6"}
+我	O
+请	O
+你	O
+吃	O
+包	B-餐饮
+子	L-餐饮
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017207b7e066678c7d270"}
+帮	O
+我	O
+放	O
+音	O
+乐	O
+响	O
+起	O
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9e432"}
+导	O
+航	O
+到	O
+钟	B-地点
+书	I-地点
+阁	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c68654"}
+嗯	O
+，	O
+放	O
+毛	B-人名
+阿	I-人名
+敏	L-人名
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_AC_TemperatureMax", "id": "5d775783f11d965140c44145"}
+温	O
+度	O
+调	O
+最	O
+高	O
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017277b7e066678c8f582"}
+附	O
+近	O
+有	O
+没	O
+有	O
+麦	B-餐饮
+当	I-餐饮
+劳	L-餐饮
+吃	O
+啊	O
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d3017087b7e066678c4422b"}
+渭	B-地点
+南	L-地点
+明	B-日期时间
+天	L-日期时间
+什	O
+么	O
+天	O
+气	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fe7b7e066678c38432"}
+导	O
+航	O
+湖	B-地点
+北	I-地点
+黄	I-地点
+冈	I-地点
+汽	I-地点
+车	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5c693"}
+西	B-酒店名称
+湖	I-酒店名称
+宾	I-酒店名称
+馆	L-酒店名称
+派	O
+出	O
+所	O
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d3017267b7e066678c8caa0"}
+去	O
+凌	B-酒店名称
+海	I-酒店名称
+假	I-酒店名称
+日	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c3cabe"}
+帮	O
+我	O
+导	O
+航	O
+到	O
+诸	B-地点
+暨	I-地点
+市	I-地点
+店	I-地点
+口	I-地点
+镇	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775787f11d965140c63623"}
+去	O
+乐	B-地点
+山	I-地点
+市	I-地点
+犍	I-地点
+为	I-地点
+县	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d30170e7b7e066678c520bc"}
+拨	O
+打	O
+6	B-电话号码
+2	I-电话号码
+0	I-电话号码
+0	L-电话号码
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d3017137b7e066678c5aec1"}
+找	O
+出	O
+联	O
+系	O
+人	O
+家	O
+门	O
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c52f47"}
+肚	O
+子	O
+饿	O
+了	O
+，	O
+给	O
+我	O
+找	O
+个	O
+饭	O
+店	O
+的	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c3ac18"}
+我	O
+要	O
+去	O
+岳	B-地点
+西	I-地点
+县	I-地点
+天	I-地点
+鹅	I-地点
+广	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c7c678"}
+来	O
+一	O
+首	O
+是	B-歌曲名
+一	I-歌曲名
+种	I-歌曲名
+孤	I-歌曲名
+独	L-歌曲名
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d775783f11d965140c44652"}
+后	B-座椅位置
+排	L-座椅位置
+温	O
+度	O
+调	O
+到	O
+1	B-温度值
+8	I-温度值
+度	L-温度值
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c7063b"}
+打	O
+开	O
+音	O
+乐	O
+，	O
+搜	O
+索	O
+中	B-歌曲名
+华	I-歌曲名
+风	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyAM", "id": "5d30170f7b7e066678c552d4"}
+听	O
+听	O
+，	O
+6	O
+1	O
+2	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017227b7e066678c809e8"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+忘	B-歌曲名
+记	I-歌曲名
+你	I-歌曲名
+太	I-歌曲名
+兰	L-歌曲名
+，	O
+我	O
+要	O
+d	B-音乐类型
+j	L-音乐类型
+版	O
+的	O
+哈	O
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyAM", "id": "5d30170d7b7e066678c50342"}
+能	O
+否	O
+A	B-波段类型
+M	L-波段类型
+2	O
+8	O
+2	O
+？	O
+
+#	{"label": "INTENT_AC_SeatVentilationOff", "id": "5d3017177b7e066678c6309d"}
+关	O
+了	O
+左	B-座椅位置
+后	L-座椅位置
+座	O
+椅	O
+通	O
+风	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d3017147b7e066678c5d210"}
+打	O
+电	O
+话	O
+给	O
+凯	B-人名
+习	L-人名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c74bde"}
+播	O
+放	O
+歌	O
+曲	O
+满	B-歌曲名
+环	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fd7b7e066678c360be"}
+导	O
+航	O
+去	O
+海	B-地点
+鲜	I-地点
+市	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8d365"}
+拨	O
+打	O
+白	B-人名
+脸	L-人名
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c59ce3"}
+帮	O
+我	O
+搜	O
+索	O
+宜	B-酒店名称
+兴	I-酒店名称
+大	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017227b7e066678c8170e"}
+在	O
+哪	O
+里	O
+面	O
+面	O
+的	O
+面	U-餐厅类型
+？	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171b7b7e066678c6de1d"}
+给	O
+何	B-人名
+哥	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c6887f"}
+嗯	O
+，	O
+请	O
+播	O
+放	O
+歌	O
+曲	O
+济	B-歌曲名
+公	I-歌曲名
+传	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c73dee"}
+播	O
+放	O
+恼	B-歌曲名
+人	I-歌曲名
+的	I-歌曲名
+秋	I-歌曲名
+风	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017077b7e066678c43269"}
+导	O
+航	O
+到	O
+锦	B-地点
+里	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d3017267b7e066678c8d4aa"}
+苹	B-酒店名称
+果	I-酒店名称
+宾	I-酒店名称
+馆	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016ff7b7e066678c3b2f9"}
+导	O
+航	O
+路	B-地点
+芳	I-地点
+村	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017267b7e066678c8b7d2"}
+找	O
+最	O
+近	O
+离	O
+这	O
+最	O
+近	O
+的	O
+咖	B-餐厅类型
+啡	I-餐厅类型
+店	L-餐厅类型
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016ef7b7e066678c24bf6"}
+到	O
+珠	B-地点
+海	I-地点
+保	I-地点
+税	I-地点
+区	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c375a4"}
+我	O
+要	O
+去	O
+港	B-地点
+务	I-地点
+区	I-地点
+华	I-地点
+南	I-地点
+城	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyFM", "id": "5d30170d7b7e066678c4f022"}
+1	O
+0	O
+1	O
+.	O
+1	O
+广	O
+播	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c67821"}
+唱	O
+一	O
+首	O
+独	B-专辑名
+孤	I-专辑名
+天	I-专辑名
+下	L-专辑名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6cb6c"}
+我	O
+想	O
+听	O
+爱	B-歌曲名
+神	I-歌曲名
+降	I-歌曲名
+临	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f97b7e066678c2edb9"}
+导	O
+航	O
+去	O
+沈	B-地点
+于	I-地点
+酒	I-地点
+店	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171a7b7e066678c6bb23"}
+打	O
+电	O
+话	O
+给	O
+蔡	B-人名
+艳	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775783f11d965140c407d4"}
+给	O
+我	O
+导	O
+航	O
+去	O
+友	B-地点
+阿	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c90963"}
+导	O
+航	O
+附	O
+近	O
+图	B-地点
+文	I-地点
+店	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017227b7e066678c808b8"}
+请	O
+帮	O
+我	O
+看	O
+一	O
+下	O
+附	O
+近	O
+的	O
+哪	O
+些	O
+吃	O
+的	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9ac29"}
+导	O
+航	O
+到	O
+林	B-地点
+湾	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8c571"}
+打	O
+给	O
+玲	B-人名
+的	I-人名
+歌	L-人名
+。	O
+
+#	{"label": "INTENT_Traffic_InquireCarRestriction", "id": "5d3017277b7e066678c8eb47"}
+沙	B-地点
+河	L-地点
+限	O
+行	O
+吗	O
+？	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c74346"}
+播	O
+放	O
+无	B-歌曲名
+底	I-歌曲名
+洞	L-歌曲名
+这	O
+首	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017217b7e066678c7e0fc"}
+唱	O
+一	O
+首	O
+粉	B-歌曲名
+刷	I-歌曲名
+匠	L-歌曲名
+吧	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171e7b7e066678c77acc"}
+电	O
+话	O
+给	O
+李	B-人名
+有	I-人名
+昌	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775787f11d965140c63c4d"}
+去	O
+北	B-地点
+门	I-地点
+旅	I-地点
+游	I-地点
+汽	I-地点
+车	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c67c57"}
+唱	O
+月	B-歌曲名
+牙	I-歌曲名
+湾	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017067b7e066678c409c5"}
+到	O
+北	B-地点
+坡	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171d7b7e066678c72b80"}
+打	O
+电	O
+话	O
+给	O
+韩	B-人名
+振	L-人名
+。	O
+
+#	{"label": "INTENT_AC_MistRemovalOn", "id": "5d775783f11d965140c4271c"}
+打	O
+开	O
+除	O
+霜	O
+，	O
+打	O
+开	O
+除	O
+除	B-除霜类型
+霜	L-除霜类型
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171f7b7e066678c79088"}
+电	O
+话	O
+给	O
+秋	B-人名
+之	I-人名
+身	L-人名
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyFM", "id": "5d3017127b7e066678c592ba"}
+播	O
+放	O
+广	O
+播	O
+9	O
+2	O
+.	O
+1	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fb7b7e066678c3331c"}
+请	O
+导	O
+航	O
+麦	B-地点
+莎	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d77578af11d965140c85c7a"}
+请	O
+播	O
+放	O
+李	O
+刘	B-人名
+和	I-人名
+刚	L-人名
+的	O
+歌	O
+曲	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c80917"}
+来	O
+首	O
+真	O
+郑	B-人名
+源	L-人名
+郑	O
+东	O
+下	B-歌曲名
+定	I-歌曲名
+决	I-歌曲名
+心	I-歌曲名
+忘	I-歌曲名
+记	I-歌曲名
+你	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c7557c"}
+播	O
+放	O
+穿	B-歌曲名
+越	I-歌曲名
+火	I-歌曲名
+线	L-歌曲名
+邓	B-人名
+紫	I-人名
+棋	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77577ff11d965140c2f0bc"}
+三	B-地点
+道	I-地点
+堰	L-地点
+怎	O
+么	O
+走	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fd7b7e066678c36c2c"}
+导	O
+航	O
+去	O
+深	B-地点
+圳	I-地点
+南	I-地点
+山	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c38bf3"}
+我	O
+要	O
+回	O
+湖	B-地点
+州	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c73bd0"}
+播	O
+放	O
+张	B-人名
+宇	L-人名
+和	O
+费	B-人名
+玉	I-人名
+清	L-人名
+合	O
+唱	O
+的	O
+囚	B-歌曲名
+鸟	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5bfb7"}
+给	O
+我	O
+倒	O
+铁	O
+人	O
+，	O
+赣	B-地点
+州	L-地点
+铁	B-酒店名称
+龙	I-酒店名称
+大	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Gen_Help", "id": "5d30172a7b7e066678c97066"}
+告	O
+诉	O
+我	O
+你	O
+会	O
+干	O
+的	O
+事	O
+有	O
+啥	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4f6f7"}
+江	B-地点
+苏	I-地点
+南	I-地点
+通	L-地点
+下	O
+不	O
+下	B-天气现象
+雨	L-天气现象
+？	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c83b7b"}
+给	O
+我	O
+来	O
+一	O
+首	O
+，	O
+我	B-歌曲名
+在	I-歌曲名
+贵	I-歌曲名
+州	I-歌曲名
+等	I-歌曲名
+你	L-歌曲名
+呀	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fa7b7e066678c313e9"}
+哦	O
+去	O
+太	B-地点
+原	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6e11e"}
+我	O
+要	O
+听	O
+佛	B-歌曲名
+所	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8e302"}
+给	O
+刘	B-人名
+纹	I-人名
+良	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyFM", "id": "5d30170f7b7e066678c54c6a"}
+我	O
+想	O
+听	O
+F	B-波段类型
+M	L-波段类型
+9	O
+8	O
+.	O
+4	O
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d3017097b7e066678c47442"}
+安	B-地点
+阳	L-地点
+明	B-日期时间
+天	L-日期时间
+天	O
+气	O
+咋	O
+样	O
+？	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4c692"}
+东	B-地点
+平	L-地点
+最	B-日期时间
+近	I-日期时间
+七	I-日期时间
+天	L-日期时间
+的	O
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c7c6a3"}
+来	O
+一	O
+首	O
+曾	B-歌曲名
+经	I-歌曲名
+拥	I-歌曲名
+有	L-歌曲名
+叶	B-人名
+倩	I-人名
+文	L-人名
+唱	O
+的	O
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017267b7e066678c8c8f1"}
+绝	B-餐饮
+味	I-餐饮
+鸭	I-餐饮
+脖	L-餐饮
+哪	O
+里	O
+有	O
+卖	O
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017187b7e066678c671fa"}
+我	O
+要	O
+把	O
+左	B-座椅位置
+侧	L-座椅位置
+那	O
+边	O
+的	O
+温	O
+度	O
+设	O
+置	O
+至	O
+2	O
+5	O
+格	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171e7b7e066678c76a89"}
+给	O
+林	B-人名
+叔	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77577ff11d965140c30fdf"}
+导	O
+航	O
+去	O
+汶	B-地点
+川	I-地点
+地	I-地点
+震	I-地点
+纪	I-地点
+念	I-地点
+馆	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyAM", "id": "5d30170f7b7e066678c556bf"}
+a	B-波段类型
+m	L-波段类型
+4	O
+6	O
+1	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f97b7e066678c2e9d1"}
+导	O
+航	O
+到	O
+农	B-地点
+讲	I-地点
+所	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d77578af11d965140c86b1e"}
+请	O
+放	O
+轻	O
+放	O
+彭	B-人名
+丽	I-人名
+媛	L-人名
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c79081"}
+放	O
+一	O
+首	O
+贾	B-人名
+玲	L-人名
+唱	O
+的	O
+，	O
+感	B-歌曲名
+觉	I-歌曲名
+自	I-歌曲名
+己	I-歌曲名
+萌	I-歌曲名
+萌	I-歌曲名
+哒	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Gen_WUWChange", "id": "5d3017287b7e066678c91de9"}
+帮	O
+你	O
+起	O
+个	O
+唤	O
+醒	O
+名	O
+称	O
+后	O
+面	O
+叫	O
+作	O
+大	B-唤醒词名
+白	L-唤醒词名
+吧	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171e7b7e066678c75c98"}
+打	O
+电	O
+话	O
+龚	B-人名
+选	I-人名
+武	L-人名
+。	O
+
+#	{"label": "INTENT_Traffic_InquireCarRestriction", "id": "5d3017267b7e066678c8bfb3"}
+明	B-日期时间
+天	L-日期时间
+成	B-地点
+都	L-地点
+限	O
+号	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578af11d965140c964e5"}
+导	O
+航	O
+到	O
+东	B-地点
+湖	I-地点
+坪	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4eb37"}
+明	B-日期时间
+天	L-日期时间
+奉	O
+贤	O
+上	B-地点
+海	I-地点
+奉	I-地点
+贤	L-地点
+的	O
+天	O
+气	O
+怎	O
+么	O
+样	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775784f11d965140c49a5f"}
+到	O
+石	B-地点
+埠	I-地点
+汽	I-地点
+车	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9bd27"}
+导	O
+航	O
+到	O
+清	B-地点
+远	I-地点
+金	I-地点
+五	I-地点
+菱	I-地点
+酒	I-地点
+店	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c3dcdf"}
+我	O
+到	O
+店	B-地点
+埠	I-地点
+镇	L-地点
+不	O
+走	O
+高	O
+速	O
+怎	O
+么	O
+走	O
+？	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c77843"}
+放	O
+一	O
+首	O
+周	B-人名
+杰	I-人名
+伦	L-人名
+，	O
+我	O
+放	O
+一	O
+首	O
+张	B-人名
+学	I-人名
+友	L-人名
+的	O
+听	B-歌曲名
+海	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30170d7b7e066678c4ef1f"}
+畅	B-人名
+春	I-人名
+园	L-人名
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c51eca"}
+梁	B-餐饮
+山	I-餐饮
+水	I-餐饮
+浒	I-餐饮
+烤	I-餐饮
+肉	L-餐饮
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c84bb4"}
+请	O
+唱	O
+一	O
+首	O
+许	B-人名
+巍	L-人名
+的	O
+旅	B-歌曲名
+行	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017217b7e066678c7dfc6"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+孤	B-歌曲名
+单	I-歌曲名
+的	I-歌曲名
+心	I-歌曲名
+痛	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d30172a7b7e066678c95c5a"}
+哪	O
+里	O
+有	O
+喝	O
+粥	U-餐厅类型
+的	O
+？	O
+
+#	{"label": "INTENT_System_Volume_Dec", "id": "5d775787f11d965140c5f5e6"}
+给	O
+我	O
+把	O
+音	B-声音类型
+乐	L-声音类型
+声	O
+音	O
+关	O
+小	O
+点	U-声音调节值
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017197b7e066678c69b1f"}
+帮	O
+我	O
+把	O
+右	B-座椅位置
+边	L-座椅位置
+这	O
+边	O
+的	O
+空	O
+调	O
+设	O
+至	O
+2	O
+5	O
+格	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f87b7e066678c2c3dd"}
+导	O
+航	O
+到	O
+兴	B-地点
+云	I-地点
+西	I-地点
+路	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c52da9"}
+美	B-餐饮
+女	I-餐饮
+加	I-餐饮
+咖	I-餐饮
+啡	L-餐饮
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fa7b7e066678c30a20"}
+到	O
+平	B-地点
+阳	I-地点
+法	I-地点
+院	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017267b7e066678c8ca9d"}
+这	O
+里	O
+有	O
+什	O
+么	O
+美	O
+食	O
+啊	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9ba50"}
+导	O
+航	O
+到	O
+海	B-地点
+丰	I-地点
+高	I-地点
+六	I-地点
+安	I-地点
+高	I-地点
+级	I-地点
+中	I-地点
+学	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_InquireTrafficToLocation", "id": "5d30171e7b7e066678c764df"}
+到	O
+时	O
+候	O
+能	O
+不	O
+堵	O
+车	O
+？	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d3017077b7e066678c43178"}
+重	B-地点
+庆	I-地点
+南	I-地点
+川	L-地点
+的	O
+天	O
+气	O
+如	O
+何	O
+？	O
+
+#	{"label": "INTENT_AC_FanSetMode", "id": "5d3017197b7e066678c6a5af"}
+给	O
+我	O
+开	O
+到	O
+a	B-风向模式名
+u	I-风向模式名
+t	I-风向模式名
+o	I-风向模式名
+模	I-风向模式名
+式	L-风向模式名
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775780f11d965140c36ac9"}
+导	O
+航	O
+黄	B-地点
+粱	I-地点
+梦	I-地点
+出	I-地点
+口	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyAM", "id": "5d3017127b7e066678c5a2ca"}
+打	O
+开	O
+6	O
+2	O
+5	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c79dc1"}
+放	O
+打	B-歌曲名
+包	L-歌曲名
+安	B-人名
+琪	L-人名
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6acd9"}
+我	O
+想	O
+听	O
+s	B-人名
+h	I-人名
+e	L-人名
+的	O
+安	B-歌曲名
+静	I-歌曲名
+了	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c71b65"}
+播	O
+放	O
+一	O
+首	O
+1	B-歌曲名
+2	I-歌曲名
+3	I-歌曲名
+4	I-歌曲名
+歌	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d77577ff11d965140c2e2f2"}
+打	O
+电	O
+话	O
+给	O
+1	B-电话号码
+5	I-电话号码
+2	I-电话号码
+3	I-电话号码
+8	I-电话号码
+6	I-电话号码
+0	I-电话号码
+1	I-电话号码
+7	I-电话号码
+3	I-电话号码
+7	L-电话号码
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c92ed1"}
+徐	B-地点
+州	I-地点
+铜	I-地点
+山	I-地点
+万	I-地点
+达	L-地点
+有	O
+没	O
+有	O
+红	O
+跑	B-地点
+车	I-地点
+专	I-地点
+卖	I-地点
+店	L-地点
+？	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c7adc9"}
+放	O
+首	O
+歌	O
+听	O
+成	B-歌曲名
+都	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017087b7e066678c46143"}
+导	O
+航	O
+到	O
+长	B-地点
+沙	I-地点
+，	I-地点
+馨	I-地点
+香	I-地点
+雅	I-地点
+苑	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c99e40"}
+导	O
+航	O
+到	O
+怡	B-地点
+海	I-地点
+花	I-地点
+园	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775786f11d965140c553b7"}
+南	B-餐饮
+至	I-餐饮
+北	I-餐饮
+火	I-餐饮
+锅	L-餐饮
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fe7b7e066678c393a9"}
+去	O
+北	B-地点
+王	I-地点
+村	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c37206"}
+我	O
+要	O
+去	O
+沈	B-地点
+阳	I-地点
+浑	I-地点
+南	I-地点
+新	I-地点
+区	I-地点
+文	I-地点
+澜	I-地点
+苑	L-地点
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d775783f11d965140c44a19"}
+将	O
+副	B-座椅位置
+驾	L-座椅位置
+温	O
+度	O
+调	O
+到	O
+2	B-温度值
+4	I-温度值
+℃	L-温度值
+。	O
+
+#	{"label": "INTENT_Com_Phone_OpenCallHistory", "id": "5d30170f7b7e066678c536fe"}
+查	O
+下	O
+全	B-记录类型
+部	L-记录类型
+通	O
+话	O
+记	O
+录	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fb7b7e066678c33133"}
+啥	O
+？	O
+你	O
+家	O
+在	O
+哪	O
+？	O
+
+#	{"label": "INTENT_System_Volume_Inc", "id": "5d775787f11d965140c5f9cb"}
+加	O
+大	O
+一	B-声音调节值
+格	L-声音调节值
+音	O
+量	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fa7b7e066678c30a55"}
+导	O
+航	O
+到	O
+凤	B-地点
+岗	I-地点
+镇	I-地点
+清	I-地点
+溪	I-地点
+路	I-地点
+口	I-地点
+途	I-地点
+虎	I-地点
+养	I-地点
+车	I-地点
+工	I-地点
+具	I-地点
+工	I-地点
+厂	I-地点
+店	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c37de1"}
+我	O
+要	O
+去	O
+芳	B-地点
+华	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c73ada"}
+播	O
+放	O
+广	B-歌曲名
+场	I-歌曲名
+舞	L-歌曲名
+这	O
+首	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6f2cc"}
+我	O
+要	O
+听	O
+民	B-音乐类型
+谣	L-音乐类型
+歌	O
+曲	O
+玫	B-歌曲名
+瑰	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016ef7b7e066678c249ac"}
+去	O
+长	B-地点
+房	I-地点
+半	I-地点
+岛	I-地点
+蓝	I-地点
+湾	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fb7b7e066678c33a3d"}
+去	O
+鱼	B-地点
+线	I-地点
+牵	I-地点
+酸	I-地点
+菜	I-地点
+鱼	I-地点
+米	I-地点
+线	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c92060"}
+火	B-地点
+车	I-地点
+南	I-地点
+站	I-地点
+停	I-地点
+车	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c380c1"}
+我	O
+要	O
+去	O
+西	B-地点
+溪	I-地点
+银	I-地点
+泰	I-地点
+城	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017067b7e066678c4211a"}
+导	O
+航	O
+到	O
+青	B-地点
+霞	I-地点
+浦	I-地点
+地	I-地点
+铁	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c38a5c"}
+我	O
+要	O
+去	O
+黄	B-地点
+泥	I-地点
+坝	I-地点
+工	I-地点
+商	I-地点
+局	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c81d2d"}
+点	O
+播	O
+小	B-歌曲名
+虎	I-歌曲名
+队	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017017b7e066678c3fe07"}
+导	O
+航	O
+，	O
+重	B-地点
+庆	I-地点
+第	I-地点
+一	I-地点
+实	I-地点
+验	I-地点
+中	I-地点
+学	L-地点
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d775784f11d965140c460d8"}
+把	O
+空	O
+调	O
+调	O
+到	O
+2	B-温度值
+3	I-温度值
+度	L-温度值
+和	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c81573"}
+汪	B-人名
+苏	I-人名
+泷	L-人名
+的	O
+歌	O
+有	B-歌曲名
+点	I-歌曲名
+甜	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8ea8f"}
+给	O
+李	B-人名
+国	I-人名
+仕	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c3ab02"}
+我	O
+要	O
+去	O
+富	B-地点
+士	I-地点
+康	I-地点
+家	I-地点
+家	I-地点
+欣	I-地点
+超	I-地点
+市	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775786f11d965140c57603"}
+我	O
+要	O
+吃	O
+串	B-餐饮
+串	I-餐饮
+火	I-餐饮
+锅	L-餐饮
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d3017097b7e066678c47274"}
+宁	B-地点
+波	L-地点
+近	B-日期时间
+半	I-日期时间
+月	L-日期时间
+天	O
+气	O
+预	O
+报	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c7ba3f"}
+来	O
+一	O
+首	O
+什	O
+么	O
+歌	O
+？	O
+张	B-人名
+学	I-人名
+友	L-人名
+的	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775784f11d965140c4a0bd"}
+到	O
+通	B-地点
+许	I-地点
+县	I-地点
+南	I-地点
+环	I-地点
+路	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171e7b7e066678c7599a"}
+给	O
+朱	B-人名
+宣	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c882ec"}
+呼	O
+叫	O
+徐	B-人名
+明	I-人名
+青	L-人名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c84486"}
+自	B-歌曲名
+由	I-歌曲名
+飞	I-歌曲名
+翔	L-歌曲名
+歌	O
+曲	O
+放	O
+一	O
+下	O
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4e67b"}
+报	O
+一	O
+下	O
+明	B-日期时间
+天	L-日期时间
+延	B-地点
+安	L-地点
+的	O
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_Apps_Stock_QuerySpecificStock", "id": "5d3017297b7e066678c93493"}
+分	O
+析	O
+浦	B-股票名
+发	I-股票名
+银	I-股票名
+行	L-股票名
+发	O
+盘	O
+价	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyName", "id": "5d3017127b7e066678c5a3cb"}
+听	O
+听	O
+郑	O
+州	O
+交	B-收音机节目类型名
+通	L-收音机节目类型名
+广	O
+播	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d30170c7b7e066678c4cf51"}
+导	O
+航	O
+到	O
+雷	B-地点
+州	I-地点
+雷	I-地点
+公	I-地点
+祠	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialYellowPage", "id": "5d30170f7b7e066678c537bb"}
+给	O
+我	O
+打	O
+1	B-电话黄页
+0	I-电话黄页
+0	I-电话黄页
+8	I-电话黄页
+6	L-电话黄页
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d775783f11d965140c44a5a"}
+将	O
+温	O
+度	O
+调	O
+为	O
+2	B-温度值
+6	I-温度值
+度	L-温度值
+。	O
+
+#	{"label": "INTENT_Nav_RouteOption", "id": "5d77577ff11d965140c2d50e"}
+切	O
+换	O
+高	B-路线类型名
+架	L-路线类型名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f97b7e066678c2f55f"}
+导	O
+航	O
+去	O
+沙	B-地点
+坪	I-地点
+坝	I-地点
+陈	I-地点
+家	I-地点
+桥	I-地点
+廖	I-地点
+家	I-地点
+坪	I-地点
+安	I-地点
+置	I-地点
+区	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c76449"}
+播	O
+放	O
+音	O
+乐	O
+，	O
+往	B-歌曲名
+事	I-歌曲名
+只	I-歌曲名
+能	I-歌曲名
+回	I-歌曲名
+忆	L-歌曲名
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d775783f11d965140c44efd"}
+帮	O
+我	O
+清	O
+理	O
+的	O
+温	O
+度	O
+打	O
+到	O
+2	B-温度值
+8	I-温度值
+度	L-温度值
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017217b7e066678c7e547"}
+帮	O
+我	O
+放	O
+首	O
+德	B-人名
+德	I-人名
+玛	L-人名
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c76d5b"}
+放	O
+一	O
+曲	O
+南	B-歌曲名
+海	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c53763"}
+这	O
+附	O
+近	O
+有	O
+好	O
+吃	O
+的	O
+吗	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140ca0967"}
+导	O
+航	O
+去	O
+嘉	B-地点
+兴	I-地点
+妇	I-地点
+保	I-地点
+院	I-地点
+秀	I-地点
+洲	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fd7b7e066678c35df4"}
+导	O
+航	O
+石	B-地点
+狮	I-地点
+中	I-地点
+心	I-地点
+客	I-地点
+运	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5c0a8"}
+维	B-酒店名称
+也	I-酒店名称
+纳	I-酒店名称
+五	I-酒店名称
+里	I-酒店名称
+店	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016ff7b7e066678c3ae98"}
+导	O
+航	O
+，	O
+烟	B-地点
+台	I-地点
+市	I-地点
+莱	I-地点
+州	I-地点
+市	I-地点
+夏	I-地点
+邱	I-地点
+镇	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c97af7"}
+导	O
+航	O
+到	O
+南	B-地点
+山	I-地点
+桥	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f67b7e066678c276c2"}
+到	O
+宗	B-地点
+泽	I-地点
+路	L-地点
+停	B-地点
+车	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775789f11d965140c7e72b"}
+去	O
+烟	B-地点
+厂	I-地点
+大	I-地点
+门	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d3017127b7e066678c59d4a"}
+1	B-电话号码
+5	I-电话号码
+2	I-电话号码
+9	I-电话号码
+1	I-电话号码
+7	I-电话号码
+0	I-电话号码
+6	I-电话号码
+3	I-电话号码
+8	I-电话号码
+9	L-电话号码
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016dd7b7e066678c21e7f"}
+导	O
+航	O
+去	O
+人	B-地点
+民	I-地点
+东	I-地点
+路	L-地点
+东	B-地点
+一	I-地点
+宾	I-地点
+馆	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017227b7e066678c82232"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+魔	B-歌曲名
+都	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d3017137b7e066678c5b3ad"}
+1	B-电话号码
+8	I-电话号码
+7	I-电话号码
+，	I-电话号码
+5	I-电话号码
+6	I-电话号码
+9	I-电话号码
+5	L-电话号码
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8edd2"}
+给	O
+王	B-人名
+锐	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017227b7e066678c81541"}
+唱	O
+一	O
+首	O
+世	B-歌曲名
+上	I-歌曲名
+只	I-歌曲名
+有	I-歌曲名
+妈	I-歌曲名
+妈	I-歌曲名
+好	L-歌曲名
+，	O
+你	O
+好	O
+一	O
+点	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d77578af11d965140c878a5"}
+音	O
+乐	O
+去	U-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77577ff11d965140c3292a"}
+导	O
+航	O
+去	O
+长	B-地点
+沙	I-地点
+理	I-地点
+工	I-地点
+大	I-地点
+学	I-地点
+云	I-地点
+云	I-地点
+塘	I-地点
+校	I-地点
+区	I-地点
+水	I-地点
+利	I-地点
+实	I-地点
+验	I-地点
+中	I-地点
+心	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d3017107b7e066678c5725d"}
+请	O
+拨	O
+打	O
+电	O
+话	O
+6	B-电话号码
+2	I-电话号码
+9	I-电话号码
+1	I-电话号码
+5	I-电话号码
+8	L-电话号码
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017247b7e066678c87dce"}
+唱	O
+一	O
+首	O
+周	B-人名
+杰	I-人名
+伦	L-人名
+的	O
+雨	B-歌曲名
+，	I-歌曲名
+下	I-歌曲名
+一	I-歌曲名
+整	I-歌曲名
+晚	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171d7b7e066678c73944"}
+杨	B-人名
+全	I-人名
+欣	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9bd13"}
+导	O
+航	O
+到	O
+清	B-地点
+苑	I-地点
+县	I-地点
+九	I-地点
+九	I-地点
+优	I-地点
+选	I-地点
+酒	I-地点
+店	L-地点
+。	O
+
+#	{"label": "INTENT_AC_TemperatureMax", "id": "5d3017197b7e066678c68bd3"}
+给	O
+我	O
+把	O
+左	B-座椅位置
+边	L-座椅位置
+的	O
+空	O
+调	O
+温	O
+度	O
+开	O
+至	O
+最	B-温度调节值
+热	L-温度调节值
+
+#	{"label": "INTENT_System_Volume_Inc", "id": "5d775787f11d965140c5ff93"}
+帮	O
+我	O
+增	O
+加	O
+音	O
+量	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017217b7e066678c7ddd1"}
+帮	O
+我	O
+放	O
+首	O
+刘	B-人名
+德	I-人名
+华	L-人名
+的	O
+半	B-歌曲名
+生	I-歌曲名
+缘	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c98617"}
+导	O
+航	O
+到	O
+在	O
+交	B-地点
+城	I-地点
+的	I-地点
+政	I-地点
+务	I-地点
+大	I-地点
+厅	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d77578af11d965140c86c08"}
+请	O
+放	O
+龙	B-人名
+一	L-人名
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c685b8"}
+嗯	O
+，	O
+放	O
+一	O
+首	O
+歌	O
+听	O
+吧	O
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d30170c7b7e066678c4cc09"}
+帮	O
+我	O
+查	O
+看	O
+一	O
+下	O
+开	B-地点
+原	L-地点
+未	B-日期时间
+来	I-日期时间
+三	I-日期时间
+天	L-日期时间
+的	O
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016dd7b7e066678c21dd3"}
+请	O
+帮	O
+我	O
+导	O
+航	O
+一	O
+下	O
+报	B-地点
+国	I-地点
+寺	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyName", "id": "5d30170f7b7e066678c55000"}
+播	O
+中	B-收音机电台名
+央	I-收音机电台名
+人	I-收音机电台名
+民	I-收音机电台名
+广	I-收音机电台名
+播	I-收音机电台名
+电	I-收音机电台名
+台	L-收音机电台名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fe7b7e066678c396a5"}
+导	O
+航	O
+设	O
+置	O
+大	B-地点
+田	I-地点
+县	I-地点
+政	I-地点
+府	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyName", "id": "5d3017107b7e066678c57da7"}
+调	O
+频	O
+和	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9f728"}
+导	O
+航	O
+去	O
+万	B-地点
+宝	I-地点
+河	I-地点
+万	I-地点
+达	L-地点
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017177b7e066678c631fa"}
+副	B-座椅位置
+驾	L-座椅位置
+空	O
+调	O
+温	O
+度	O
+到	O
+2	B-温度值
+5	I-温度值
+度	L-温度值
+
+#	{"label": "INTENT_System_Volume_Dec", "id": "5d775787f11d965140c5f239"}
+声	O
+音	O
+小	O
+十	B-声音调节值
+格	L-声音调节值
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4c857"}
+今	B-日期时间
+天	L-日期时间
+下	B-天气现象
+雨	L-天气现象
+天	O
+气	O
+几	O
+度	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c836a1"}
+给	O
+我	O
+放	O
+粤	B-音乐类型
+语	L-音乐类型
+歌	O
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d3017277b7e066678c8eafe"}
+去	O
+太	B-酒店名称
+原	I-酒店名称
+湾	I-酒店名称
+大	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775786f11d965140c5745e"}
+我	O
+看	O
+你	O
+给	O
+我	O
+看	O
+一	O
+下	O
+附	O
+近	O
+有	O
+哪	O
+些	O
+吃	O
+的	O
+东	O
+西	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775787f11d965140c63aa2"}
+去	O
+凤	B-地点
+凰	I-地点
+山	I-地点
+新	I-地点
+城	I-地点
+派	I-地点
+出	I-地点
+所	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d3017187b7e066678c66811"}
+打	O
+电	O
+话	O
+给	O
+带	B-人名
+班	L-人名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c814bc"}
+歌	O
+曲	O
+韩	B-人名
+超	I-人名
+武	L-人名
+谷	B-歌曲名
+歌	I-歌曲名
+的	I-歌曲名
+我	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171a7b7e066678c6b69e"}
+打	O
+电	O
+话	O
+给	O
+蒋	B-人名
+波	L-人名
+。	O
+
+#	{"label": "INTENT_Apps_Flight_Search", "id": "5d30172a7b7e066678c96821"}
+我	O
+要	O
+查	O
+到	O
+河	B-地点
+北	I-地点
+廊	I-地点
+坊	L-地点
+的	O
+机	O
+票	O
+。	O
+
+#	{"label": "INTENT_AC_SeatHeatOff", "id": "5d3017167b7e066678c60acf"}
+给	O
+我	O
+关	O
+闭	O
+前	B-座椅位置
+排	L-座椅位置
+座	O
+椅	O
+加	O
+热	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d775784f11d965140c47856"}
+请	O
+问	O
+空	O
+调	O
+调	O
+到	O
+2	B-温度值
+5	I-温度值
+度	L-温度值
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017207b7e066678c7bdc7"}
+唱	O
+一	O
+首	O
+好	O
+听	O
+的	O
+歌	O
+曲	O
+吗	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fa7b7e066678c30b38"}
+到	O
+平	B-地点
+顶	I-地点
+山	I-地点
+西	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyAM", "id": "5d30170e7b7e066678c52d18"}
+打	O
+开	O
+9	O
+7	O
+3	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fa7b7e066678c30839"}
+呵	O
+呵	O
+怎	O
+么	O
+走	O
+？	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyName", "id": "5d3017127b7e066678c59cd7"}
+我	O
+想	O
+听	O
+迪	B-收音机电台名
+庆	I-收音机电台名
+广	I-收音机电台名
+播	L-收音机电台名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9dbed"}
+导	O
+航	O
+到	O
+跑	B-地点
+跑	I-地点
+卡	I-地点
+丁	I-地点
+车	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d30170a7b7e066678c4919e"}
+锦	B-地点
+州	L-地点
+的	O
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyAM", "id": "5d30170d7b7e066678c50fdb"}
+放	O
+1	O
+2	O
+3	O
+2	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f67b7e066678c286b6"}
+合	B-地点
+肥	L-地点
+到	O
+长	B-地点
+春	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9b83e"}
+导	O
+航	O
+到	O
+泽	B-地点
+州	I-地点
+县	I-地点
+水	I-地点
+东	I-地点
+村	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017227b7e066678c81bb1"}
+唱	O
+一	O
+首	O
+为	B-歌曲名
+什	I-歌曲名
+么	I-歌曲名
+相	I-歌曲名
+爱	I-歌曲名
+的	I-歌曲名
+人	I-歌曲名
+不	I-歌曲名
+能	I-歌曲名
+在	I-歌曲名
+一	I-歌曲名
+起	L-歌曲名
+？	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyAM", "id": "5d3017137b7e066678c5aead"}
+我	O
+想	O
+听	O
+A	B-波段类型
+M	L-波段类型
+2	O
+6	O
+4	O
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017277b7e066678c8ed55"}
+找	O
+一	O
+家	O
+附	O
+近	O
+最	B-评价值
+好	L-评价值
+的	O
+饭	O
+馆	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8a5eb"}
+打	O
+电	O
+话	O
+给	O
+常	B-人名
+小	I-人名
+曼	L-人名
+。	O
+
+#	{"label": "INTENT_System_Volume_Inc", "id": "5d775787f11d965140c5fb4e"}
+嗯	O
+，	O
+请	O
+把	O
+音	O
+量	O
+调	O
+高	O
+一	B-声音调节值
+点	L-声音调节值
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017177b7e066678c65215"}
+给	O
+我	O
+把	O
+左	B-座椅位置
+边	L-座椅位置
+空	O
+调	O
+温	O
+度	O
+开	O
+到	O
+2	B-温度值
+5	I-温度值
+度	L-温度值
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fa7b7e066678c32012"}
+去	O
+高	B-地点
+家	I-地点
+湾	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9c059"}
+导	O
+航	O
+到	O
+潮	B-地点
+州	I-地点
+佬	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5b005"}
+桂	B-地点
+林	L-地点
+医	B-酒店名称
+科	I-酒店名称
+来	I-酒店名称
+大	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_InquireTrafficToLocation", "id": "5d775785f11d965140c4be1c"}
+华	B-参考点名
+安	I-参考点名
+高	I-参考点名
+速	L-参考点名
+堵	O
+不	O
+堵	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9ef5b"}
+导	O
+航	O
+到	O
+麻	B-地点
+山	I-地点
+镇	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775786f11d965140c561c4"}
+大	B-餐饮
+英	I-餐饮
+小	I-餐饮
+跳	I-餐饮
+蛙	L-餐饮
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775789f11d965140c7df3f"}
+去	O
+氯	B-地点
+剂	I-地点
+新	I-地点
+里	I-地点
+程	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c91558"}
+我	O
+要	O
+去	O
+平	B-地点
+原	I-地点
+路	I-地点
+红	I-地点
+星	I-地点
+美	I-地点
+凯	I-地点
+龙	L-地点
+。	O
+
+#	{"label": "INTENT_AC_TemperatureDecrease", "id": "5d775783f11d965140c437cc"}
+空	O
+调	O
+降	O
+低	O
+两	B-温度调节值
+度	L-温度调节值
+度	O
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5a915"}
+播	B-酒店名称
+州	I-酒店名称
+宾	I-酒店名称
+馆	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fe7b7e066678c39d1f"}
+去	O
+十	B-地点
+字	I-地点
+路	I-地点
+镇	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77577ff11d965140c2fe45"}
+导	O
+航	O
+去	O
+宝	B-地点
+安	I-地点
+第	I-地点
+一	I-地点
+外	I-地点
+国	I-地点
+语	I-地点
+学	I-地点
+校	I-地点
+高	I-地点
+中	I-地点
+部	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fe7b7e066678c382f6"}
+去	O
+北	B-地点
+京	I-地点
+市	I-地点
+通	I-地点
+州	I-地点
+区	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171c7b7e066678c71aa9"}
+给	O
+学	B-人名
+文	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c74b53"}
+播	O
+放	O
+歌	O
+曲	O
+春	B-歌曲名
+天	I-歌曲名
+在	I-歌曲名
+哪	I-歌曲名
+里	L-歌曲名
+？	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4cea8"}
+今	B-日期时间
+天	L-日期时间
+着	B-地点
+陆	L-地点
+的	O
+天	O
+气	O
+怎	O
+么	O
+样	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f87b7e066678c2c6e2"}
+到	O
+稻	B-地点
+香	I-地点
+路	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d77577ff11d965140c2ec19"}
+给	O
+1	B-电话号码
+3	I-电话号码
+8	I-电话号码
+3	I-电话号码
+7	I-电话号码
+7	I-电话号码
+9	I-电话号码
+0	I-电话号码
+9	I-电话号码
+3	I-电话号码
+1	L-电话号码
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171f7b7e066678c79011"}
+电	O
+话	O
+给	O
+皮	O
+皮	O
+虾	O
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d3017087b7e066678c45392"}
+我	O
+想	O
+看	O
+下	O
+今	B-日期时间
+天	L-日期时间
+的	O
+天	O
+气	O
+怎	O
+么	O
+样	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8852d"}
+呼	O
+叫	O
+涂	B-人名
+茂	L-人名
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017187b7e066678c67751"}
+我	O
+要	O
+把	O
+副	B-座椅位置
+驾	L-座椅位置
+这	O
+边	O
+的	O
+空	O
+调	O
+温	O
+度	O
+调	O
+到	O
+2	O
+5	O
+档	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171e7b7e066678c76555"}
+打	O
+金	B-人名
+伟	L-人名
+的	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c7da89"}
+来	O
+首	O
+刘	B-歌曲名
+备	I-歌曲名
+说	L-歌曲名
+来	O
+一	O
+首	O
+成	B-歌曲名
+都	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Apps_News_FindByKeyword", "id": "5d775787f11d965140c5e4ff"}
+给	O
+我	O
+看	O
+看	O
+今	B-日期时间
+天	L-日期时间
+有	O
+什	O
+么	O
+新	O
+闻	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fd7b7e066678c35c47"}
+导	O
+航	O
+龙	B-地点
+岗	I-地点
+一	I-地点
+景	I-地点
+园	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyName", "id": "5d3017137b7e066678c5b6bc"}
+打	O
+开	O
+河	B-收音机电台名
+北	I-收音机电台名
+音	I-收音机电台名
+乐	I-收音机电台名
+广	I-收音机电台名
+播	I-收音机电台名
+电	I-收音机电台名
+台	L-收音机电台名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d30170d7b7e066678c4f6f4"}
+打	O
+电	O
+话	O
+给	O
+1	B-电话号码
+3	I-电话号码
+7	I-电话号码
+5	I-电话号码
+9	I-电话号码
+0	I-电话号码
+6	I-电话号码
+8	I-电话号码
+7	I-电话号码
+5	I-电话号码
+0	L-电话号码
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9c1d2"}
+导	O
+航	O
+到	O
+爱	B-地点
+贤	I-地点
+里	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171c7b7e066678c70201"}
+给	O
+周	B-人名
+大	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Gen_WUWChange", "id": "5d3017287b7e066678c92bdd"}
+给	O
+你	O
+更	O
+改	O
+唤	O
+醒	O
+名	O
+称	O
+以	O
+后	O
+称	O
+为	O
+大	B-唤醒词名
+白	L-唤醒词名
+行	O
+吗	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171b7b7e066678c6d6fd"}
+打	O
+电	O
+话	O
+给	O
+李	B-人名
+通	L-人名
+。	O
+
+#	{"label": "INTENT_Gen_WUWChange", "id": "5d30172a7b7e066678c95c0f"}
+更	O
+改	O
+唤	O
+醒	O
+词	O
+名	O
+称	O
+叫	O
+大	B-唤醒词名
+白	L-唤醒词名
+吧	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d3017087b7e066678c44056"}
+你	O
+好	O
+，	O
+你	O
+好	O
+，	O
+那	O
+个	O
+今	B-日期时间
+天	L-日期时间
+的	O
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyAM", "id": "5d3017117b7e066678c584bb"}
+给	O
+我	O
+频	O
+率	O
+，	O
+a	B-波段类型
+m	L-波段类型
+2	O
+1	O
+3	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775787f11d965140c631e8"}
+去	O
+下	O
+义	B-地点
+乌	I-地点
+苏	I-地点
+溪	I-地点
+镇	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9d4ee"}
+导	O
+航	O
+到	O
+蒙	B-地点
+城	I-地点
+县	I-地点
+梦	I-地点
+蝶	I-地点
+广	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c6559c"}
+什	O
+么	O
+歌	O
+？	O
+今	O
+年	O
+最	O
+流	B-音乐类型
+行	L-音乐类型
+的	O
+歌	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c91c76"}
+晨	B-地点
+雄	I-地点
+机	I-地点
+电	I-地点
+市	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyName", "id": "5d3017137b7e066678c5bcd8"}
+打	O
+开	O
+收	O
+音	O
+机	O
+，	O
+中	O
+国	O
+音	B-收音机节目类型名
+乐	L-收音机节目类型名
+之	O
+声	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d77578af11d965140c87167"}
+赵	B-人名
+宇	L-人名
+赵	B-人名
+薇	L-人名
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c82ae1"}
+给	O
+我	O
+播	O
+放	O
+凤	B-人名
+凰	I-人名
+传	I-人名
+奇	L-人名
+的	O
+。	O
+
+#	{"label": "INTENT_AC_SeatHeatIncrease", "id": "5d3017157b7e066678c5fb43"}
+调	O
+高	O
+2	B-温度调节值
+度	L-温度调节值
+左	B-座椅位置
+后	L-座椅位置
+座	O
+椅	O
+温	O
+度	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c797ef"}
+放	O
+个	O
+林	B-人名
+俊	I-人名
+杰	L-人名
+的	O
+背	B-歌曲名
+靠	I-歌曲名
+背	I-歌曲名
+的	I-歌曲名
+拥	I-歌曲名
+抱	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578af11d965140c96c95"}
+导	O
+航	O
+到	O
+云	B-地点
+南	I-地点
+云	I-地点
+南	I-地点
+建	I-地点
+朝	I-地点
+律	I-地点
+师	I-地点
+事	I-地点
+务	I-地点
+所	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Chat_General", "id": "5d3017257b7e066678c8a5fc"}
+查	O
+一	O
+首	O
+将	B-诗歌名
+进	I-诗歌名
+酒	L-诗歌名
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c69a40"}
+帮	O
+我	O
+放	O
+做	B-歌曲名
+我	I-歌曲名
+老	I-歌曲名
+婆	I-歌曲名
+好	I-歌曲名
+不	I-歌曲名
+好	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171a7b7e066678c6b336"}
+打	O
+电	O
+话	O
+给	O
+董	B-人名
+刚	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5c5de"}
+西	B-地点
+安	L-地点
+尚	B-酒店名称
+美	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_VEH_Window_Low", "id": "5d775785f11d965140c4ba19"}
+右	B-座椅位置
+前	L-座椅位置
+窗	O
+放	O
+下	O
+来	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d3017137b7e066678c5a813"}
+打	O
+开	O
+电	O
+话	O
+薄	O
+找	O
+赵	B-人名
+敏	L-人名
+的	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171c7b7e066678c71bd3"}
+拨	O
+打	O
+鲁	B-人名
+军	L-人名
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171a7b7e066678c6cd84"}
+拨	O
+打	O
+玉	B-人名
+龙	L-人名
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c91282"}
+我	O
+要	O
+去	O
+湖	B-地点
+北	I-地点
+永	I-地点
+大	I-地点
+吉	I-地点
+利	I-地点
+4	I-地点
+s	I-地点
+店	L-地点
+怎	O
+么	O
+走	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fb7b7e066678c33dcd"}
+请	O
+导	O
+行	O
+，	O
+沙	B-地点
+河	I-地点
+市	I-地点
+白	I-地点
+塔	I-地点
+镇	I-地点
+，	I-地点
+摩	I-地点
+托	I-地点
+大	I-地点
+世	I-地点
+界	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fb7b7e066678c33294"}
+请	O
+导	O
+航	O
+高	B-地点
+胜	I-地点
+小	I-地点
+学	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775783f11d965140c4175f"}
+请	O
+导	O
+航	O
+到	O
+竹	B-地点
+塘	I-地点
+路	I-地点
+口	L-地点
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017147b7e066678c5d964"}
+帮	O
+我	O
+把	O
+右	B-座椅位置
+侧	L-座椅位置
+那	O
+边	O
+的	O
+温	O
+度	O
+设	O
+置	O
+为	O
+2	O
+5	O
+档	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d3017067b7e066678c41c84"}
+今	B-日期时间
+天	L-日期时间
+天	O
+气	O
+是	O
+多	O
+少	O
+度	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c3b20d"}
+我	O
+要	O
+去	O
+新	B-地点
+昌	I-地点
+张	I-地点
+氏	I-地点
+骨	I-地点
+伤	I-地点
+医	I-地点
+院	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4feed"}
+看	O
+看	O
+彭	B-地点
+州	I-地点
+蒙	I-地点
+阳	L-地点
+的	O
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f67b7e066678c27575"}
+导	O
+航	O
+到	O
+光	B-地点
+明	I-地点
+学	I-地点
+校	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017237b7e066678c85093"}
+帮	O
+我	O
+放	O
+城	B-歌曲名
+里	I-歌曲名
+的	I-歌曲名
+月	I-歌曲名
+光	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c59b63"}
+帮	O
+忙	O
+在	O
+武	B-地点
+汉	I-地点
+大	I-地点
+学	L-地点
+附	O
+近	O
+找	O
+一	O
+家	O
+价	O
+格	O
+不	B-价格上限
+超	I-价格上限
+过	I-价格上限
+一	I-价格上限
+千	I-价格上限
+元	L-价格上限
+的	O
+酒	O
+店	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775784f11d965140c4990f"}
+到	O
+王	B-地点
+亮	I-地点
+路	I-地点
+8	I-地点
+号	L-地点
+。	O
+
+#	{"label": "INTENT_System_Volume_Set", "id": "5d775787f11d965140c60b2b"}
+声	O
+音	O
+2	B-声音值
+9	L-声音值
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775789f11d965140c7f850"}
+去	O
+钟	B-地点
+村	I-地点
+雄	I-地点
+峰	I-地点
+商	I-地点
+城	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775780f11d965140c3598c"}
+导	O
+航	O
+至	O
+文	B-地点
+华	I-地点
+龙	I-地点
+华	I-地点
+文	I-地点
+化	I-地点
+广	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017267b7e066678c8cf05"}
+朱	B-地点
+雀	I-地点
+大	I-地点
+街	L-地点
+那	O
+有	O
+面	B-餐厅类型
+馆	L-餐厅类型
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d30171f7b7e066678c7a459"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+王	B-人名
+力	I-人名
+宏	L-人名
+唱	O
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fd7b7e066678c36e73"}
+导	O
+航	O
+西	B-地点
+到	I-地点
+城	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c74bfc"}
+播	O
+放	O
+歌	O
+曲	O
+爱	B-歌曲名
+声	I-歌曲名
+叹	I-歌曲名
+气	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c39f2d"}
+我	O
+要	O
+去	O
+凯	B-地点
+里	I-地点
+安	I-地点
+监	I-地点
+局	L-地点
+。	O
+
+#	{"label": "INTENT_System_Volume_Inc", "id": "5d775787f11d965140c5f925"}
+你	O
+好	O
+博	O
+瑞	O
+把	O
+音	O
+量	O
+调	O
+大	O
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4d80b"}
+嗯	O
+，	O
+查	O
+一	O
+下	O
+去	O
+东	B-地点
+莞	L-地点
+，	O
+今	B-日期时间
+天	L-日期时间
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6e692"}
+我	O
+要	O
+听	O
+多	B-歌曲名
+想	I-歌曲名
+抱	I-歌曲名
+抱	I-歌曲名
+你	I-歌曲名
+，	I-歌曲名
+为	I-歌曲名
+爱	I-歌曲名
+而	I-歌曲名
+生	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9aec0"}
+导	O
+航	O
+到	O
+楚	B-地点
+河	I-地点
+汉	I-地点
+街	I-地点
+地	I-地点
+铁	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f77b7e066678c29fcf"}
+导	O
+航	O
+到	O
+六	B-地点
+合	I-地点
+图	I-地点
+书	I-地点
+馆	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017087b7e066678c462a5"}
+导	O
+航	O
+到	O
+长	B-地点
+治	I-地点
+市	I-地点
+南	I-地点
+荒	I-地点
+村	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171c7b7e066678c700b0"}
+打	O
+电	O
+话	O
+给	O
+毛	B-人名
+波	L-人名
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyAM", "id": "5d3017137b7e066678c5ae87"}
+播	O
+放	O
+，	O
+1	O
+1	O
+1	O
+2	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d77577ff11d965140c2e570"}
+打	O
+电	O
+话	O
+给	O
+6	B-电话号码
+2	I-电话号码
+3	I-电话号码
+8	I-电话号码
+1	L-电话号码
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30170e7b7e066678c514e8"}
+郑	B-人名
+斌	L-人名
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171b7b7e066678c6e2b4"}
+打	O
+电	O
+话	O
+给	O
+连	B-人名
+姐	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9a97a"}
+导	O
+航	O
+到	O
+朝	B-地点
+阳	I-地点
+时	I-地点
+代	I-地点
+西	I-地点
+锦	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c50f33"}
+找	O
+一	O
+家	O
+藏	B-餐饮
+族	I-餐饮
+火	I-餐饮
+锅	L-餐饮
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017237b7e066678c84db8"}
+哪	O
+家	O
+餐	O
+厅	O
+人	B-评价值
+气	I-评价值
+比	I-评价值
+较	I-评价值
+高	L-评价值
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d3017097b7e066678c46a7e"}
+大	B-地点
+庆	L-地点
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9cf5d"}
+导	O
+航	O
+到	O
+老	B-地点
+北	I-地点
+京	I-地点
+炸	I-地点
+酱	I-地点
+面	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9efcb"}
+导	O
+航	O
+到	O
+黄	B-地点
+州	I-地点
+客	I-地点
+运	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775784f11d965140c4a6a6"}
+到	O
+麓	B-地点
+湖	I-地点
+艺	I-地点
+展	I-地点
+中	I-地点
+心	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByPOI", "id": "5d77578af11d965140c93e3e"}
+塘	U-参考点名
+附	O
+近	O
+加	B-地点
+油	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017207b7e066678c7ae07"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+男	B-歌曲名
+人	I-歌曲名
+琵	I-歌曲名
+琶	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d3017287b7e066678c90816"}
+鸢	B-酒店名称
+飞	I-酒店名称
+大	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017247b7e066678c88174"}
+唱	O
+一	O
+首	O
+哥	O
+哥	O
+妹	O
+妹	O
+的	O
+哥	B-歌曲名
+哥	I-歌曲名
+妹	I-歌曲名
+妹	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9a787"}
+导	O
+航	O
+到	O
+昭	B-地点
+通	I-地点
+市	I-地点
+第	I-地点
+一	I-地点
+人	I-地点
+民	I-地点
+医	I-地点
+院	L-地点
+。	O
+
+#	{"label": "INTENT_Gen_ScreenSwitch", "id": "5d77578af11d965140c9461e"}
+把	O
+w	B-界面名称
+i	I-界面名称
+f	I-界面名称
+i	I-界面名称
+设	I-界面名称
+置	L-界面名称
+帮	O
+我	O
+开	O
+启	O
+
+#	{"label": "INTENT_Apps_Flight_Search", "id": "5d3017267b7e066678c8d719"}
+从	O
+贵	B-出发地
+阳	L-出发地
+到	O
+天	B-地点
+津	L-地点
+的	O
+机	O
+票	O
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017157b7e066678c5f799"}
+帮	O
+我	O
+把	O
+右	B-座椅位置
+边	L-座椅位置
+这	O
+边	O
+的	O
+空	O
+调	O
+到	O
+2	B-温度值
+5	I-温度值
+度	L-温度值
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fb7b7e066678c3235e"}
+请	O
+导	O
+航	O
+至	O
+韶	B-地点
+关	I-地点
+市	I-地点
+花	I-地点
+坪	I-地点
+镇	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c850ad"}
+请	O
+打	O
+开	O
+，	O
+世	B-歌曲名
+上	I-歌曲名
+只	I-歌曲名
+有	I-歌曲名
+妈	I-歌曲名
+妈	I-歌曲名
+好	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Apps_Flight_Search", "id": "5d3017257b7e066678c8a1f7"}
+查	O
+7	B-日期时间
+月	I-日期时间
+1	I-日期时间
+3	I-日期时间
+日	L-日期时间
+有	O
+什	O
+么	O
+从	O
+上	B-出发地
+海	L-出发地
+飞	O
+北	B-地点
+京	L-地点
+的	O
+航	O
+班	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fb7b7e066678c348c5"}
+嗯	O
+，	O
+到	O
+贤	B-地点
+子	I-地点
+岗	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4e989"}
+明	B-日期时间
+天	L-日期时间
+什	O
+么	O
+天	O
+儿	O
+啊	O
+？	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5cc85"}
+金	B-酒店名称
+华	I-酒店名称
+连	I-酒店名称
+锁	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByPOI", "id": "5d30171e7b7e066678c77bbe"}
+王	O
+燕	O
+，	O
+我	O
+要	O
+到	O
+水	B-地点
+果	I-地点
+市	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c62c14"}
+一	O
+首	O
+难	B-歌曲名
+以	I-歌曲名
+启	I-歌曲名
+齿	I-歌曲名
+的	I-歌曲名
+柔	I-歌曲名
+弱	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77577ff11d965140c2f832"}
+到	O
+丹	B-地点
+溪	I-地点
+三	I-地点
+区	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c39863"}
+我	O
+要	O
+去	O
+东	B-地点
+山	I-地点
+名	I-地点
+郡	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017247b7e066678c85faa"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+人	B-歌曲名
+生	I-歌曲名
+何	I-歌曲名
+处	I-歌曲名
+不	I-歌曲名
+相	I-歌曲名
+逢	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017207b7e066678c7c2f6"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+嗯	O
+那	O
+个	O
+田	B-人名
+飞	L-人名
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyName", "id": "5d3017157b7e066678c6003f"}
+打	O
+开	O
+瓷	O
+都	O
+交	B-收音机节目类型名
+通	L-收音机节目类型名
+广	O
+播	O
+电	O
+台	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f77b7e066678c298b5"}
+到	O
+石	B-地点
+桥	I-地点
+养	I-地点
+猪	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9bbb2"}
+导	O
+航	O
+到	O
+淄	B-地点
+博	I-地点
+市	I-地点
+技	I-地点
+师	I-地点
+学	I-地点
+院	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d3017107b7e066678c55f97"}
+九	O
+牧	O
+镇	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fb7b7e066678c34505"}
+到	O
+茅	B-地点
+村	I-地点
+镇	I-地点
+政	I-地点
+府	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016ff7b7e066678c3a1dd"}
+到	O
+五	B-地点
+桂	I-地点
+村	I-地点
+樱	I-地点
+桃	I-地点
+采	I-地点
+摘	I-地点
+基	I-地点
+地	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5bb1b"}
+瑞	B-酒店名称
+安	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d77578af11d965140c866b5"}
+请	O
+放	O
+一	O
+首	O
+，	O
+感	B-歌曲名
+觉	I-歌曲名
+自	I-歌曲名
+己	I-歌曲名
+萌	I-歌曲名
+萌	I-歌曲名
+哒	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f87b7e066678c2cc67"}
+导	O
+航	O
+到	O
+兴	B-地点
+山	I-地点
+质	I-地点
+监	I-地点
+局	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017237b7e066678c83295"}
+唱	O
+一	O
+首	O
+，	O
+你	B-歌曲名
+别	I-歌曲名
+走	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fe7b7e066678c37515"}
+去	O
+前	O
+面	O
+的	O
+建	B-地点
+材	I-地点
+市	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c57c37"}
+万	B-酒店名称
+象	I-酒店名称
+温	I-酒店名称
+泉	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearbyHome", "id": "5d30171f7b7e066678c78ee7"}
+找	O
+家	U-参考点名
+附	O
+近	O
+的	O
+加	B-地点
+油	I-地点
+站	L-地点
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d3017097b7e066678c472fe"}
+济	B-地点
+宁	L-地点
+最	B-日期时间
+近	I-日期时间
+五	I-日期时间
+天	L-日期时间
+有	O
+雨	O
+吗	O
+？	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8d99e"}
+电	O
+话	O
+张	B-人名
+龙	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017007b7e066678c3e266"}
+去	O
+南	B-地点
+湾	I-地点
+人	I-地点
+民	I-地点
+医	I-地点
+院	I-地点
+公	I-地点
+交	I-地点
+车	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4dc2a"}
+宜	B-地点
+州	L-地点
+的	O
+天	O
+气	O
+情	O
+况	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017217b7e066678c7f1ff"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+远	B-歌曲名
+走	I-歌曲名
+高	I-歌曲名
+飞	L-歌曲名
+，	O
+m	O
+c	O
+立	O
+场	O
+心	O
+。	O
+
+#	{"label": "INTENT_AC_SeatHeatOff", "id": "5d3017157b7e066678c60702"}
+给	O
+我	O
+把	O
+座	O
+椅	O
+加	O
+热	O
+关	O
+了	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d30172a7b7e066678c966b7"}
+到	O
+戴	B-酒店名称
+斯	I-酒店名称
+大	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d3017167b7e066678c620f7"}
+打	O
+电	O
+话	O
+给	O
+大	B-人名
+刀	L-人名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171d7b7e066678c731ba"}
+是	O
+不	O
+是	O
+打	O
+电	O
+话	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c91763"}
+延	B-地点
+安	I-地点
+汽	I-地点
+车	I-地点
+城	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c3c811"}
+帮	O
+我	O
+导	O
+航	O
+到	O
+环	B-地点
+球	I-地点
+公	I-地点
+园	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f67b7e066678c28b94"}
+请	O
+导	O
+航	O
+到	O
+松	B-地点
+桃	I-地点
+北	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d77578af11d965140c86aea"}
+请	O
+放	O
+英	B-音乐类型
+文	L-音乐类型
+歌	O
+曲	O
+，	O
+有	B-歌曲名
+你	I-歌曲名
+有	I-歌曲名
+我	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017007b7e066678c3eb9c"}
+到	O
+刘	B-地点
+庄	I-地点
+煤	I-地点
+矿	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d30170b7b7e066678c4ad7e"}
+导	O
+航	O
+到	O
+陕	B-地点
+西	I-地点
+意	I-地点
+林	I-地点
+吉	I-地点
+利	I-地点
+汽	I-地点
+车	I-地点
+销	I-地点
+售	I-地点
+有	I-地点
+限	I-地点
+公	I-地点
+司	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyAM", "id": "5d3017127b7e066678c5a638"}
+帮	O
+我	O
+听	O
+8	O
+4	O
+4	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6cdbd"}
+我	O
+想	O
+听	O
+私	B-歌曲名
+密	I-歌曲名
+私	I-歌曲名
+密	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Apps_Stock_QuerySpecificStock", "id": "5d3017287b7e066678c92674"}
+查	O
+找	O
+东	B-股票名
+风	I-股票名
+汽	I-股票名
+车	L-股票名
+的	O
+股	O
+票	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8a149"}
+打	O
+电	O
+话	O
+给	O
+回	O
+来	O
+打	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c88fd1"}
+帮	O
+我	O
+给	O
+邓	B-人名
+永	I-人名
+凤	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d3017177b7e066678c63733"}
+打	O
+电	O
+话	O
+给	O
+媛	B-人名
+宝	L-人名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c692b4"}
+帮	O
+我	O
+播	O
+放	O
+1	B-歌曲名
+0	I-歌曲名
+0	I-歌曲名
+万	I-歌曲名
+个	I-歌曲名
+可	I-歌曲名
+能	L-歌曲名
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c7b95f"}
+来	O
+一	O
+首	O
+，	O
+不	B-歌曲名
+要	I-歌曲名
+把	I-歌曲名
+寂	I-歌曲名
+寞	I-歌曲名
+当	I-歌曲名
+做	I-歌曲名
+缘	I-歌曲名
+分	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f67b7e066678c28f19"}
+导	O
+航	O
+到	O
+八	B-地点
+角	I-地点
+游	I-地点
+乐	I-地点
+园	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d30170b7b7e066678c4b498"}
+导	O
+航	O
+到	O
+陵	B-地点
+川	I-地点
+县	I-地点
+武	I-地点
+家	I-地点
+湾	I-地点
+村	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016ef7b7e066678c2493e"}
+去	O
+长	O
+张	B-地点
+家	I-地点
+港	I-地点
+车	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c91d0b"}
+民	B-地点
+航	I-地点
+路	I-地点
+建	I-地点
+设	I-地点
+银	I-地点
+行	L-地点
+。	O
+
+#	{"label": "INTENT_VEH_OpenWindow", "id": "5d3017207b7e066678c7c51b"}
+帮	O
+我	O
+开	O
+启	O
+窗	O
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775786f11d965140c55e41"}
+嗯	O
+汉	B-餐饮
+堡	L-餐饮
+呗	O
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017187b7e066678c67a9b"}
+我	O
+要	O
+把	O
+主	B-座椅位置
+驾	L-座椅位置
+驶	O
+温	O
+度	O
+设	O
+置	O
+到	O
+2	O
+5	O
+格	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017247b7e066678c87dec"}
+唱	O
+一	O
+首	O
+周	B-人名
+杰	I-人名
+伦	L-人名
+的	O
+龙	B-歌曲名
+拳	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Apps_Train_Search", "id": "5d3017287b7e066678c912e5"}
+洛	B-出发地
+阳	L-出发地
+到	O
+杭	B-地点
+州	L-地点
+坐	O
+火	O
+车	O
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017257b7e066678c89f97"}
+我	O
+要	O
+去	O
+南	B-餐饮
+屏	I-餐饮
+科	I-餐饮
+技	I-餐饮
+园	I-餐饮
+正	I-餐饮
+宗	I-餐饮
+餐	I-餐饮
+厅	L-餐饮
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d30170a7b7e066678c49ac0"}
+现	B-日期时间
+在	L-日期时间
+武	B-地点
+汉	L-地点
+的	O
+天	O
+气	O
+怎	O
+么	O
+样	O
+？	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d3017107b7e066678c57dc9"}
+1	B-电话号码
+2	I-电话号码
+3	I-电话号码
+8	I-电话号码
+8	L-电话号码
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d77577ff11d965140c2e420"}
+打	O
+电	O
+话	O
+给	O
+1	B-电话号码
+8	I-电话号码
+2	I-电话号码
+1	I-电话号码
+9	I-电话号码
+3	I-电话号码
+3	I-电话号码
+8	I-电话号码
+5	I-电话号码
+1	I-电话号码
+4	L-电话号码
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5b4bb"}
+泰	B-地点
+安	L-地点
+崇	B-酒店名称
+德	I-酒店名称
+堂	I-酒店名称
+道	I-酒店名称
+家	I-酒店名称
+主	I-酒店名称
+题	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_System_Volume_Dec", "id": "5d775787f11d965140c5f6b7"}
+请	O
+把	O
+音	O
+量	O
+降	O
+低	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017017b7e066678c3f73e"}
+去	O
+卢	B-地点
+瓦	I-地点
+尔	I-地点
+小	I-地点
+镇	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6df79"}
+我	O
+要	O
+听	O
+世	O
+界	O
+上	O
+最	O
+好	O
+听	O
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8cd0b"}
+拨	O
+打	O
+李	B-人名
+家	I-人名
+付	L-人名
+电	O
+话	O
+号	O
+码	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c989fe"}
+导	O
+航	O
+到	O
+大	B-地点
+营	I-地点
+镇	I-地点
+邮	I-地点
+政	I-地点
+银	I-地点
+行	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017247b7e066678c864af"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+歌	O
+，	O
+爱	B-歌曲名
+情	I-歌曲名
+伤	I-歌曲名
+了	I-歌曲名
+你	I-歌曲名
+害	I-歌曲名
+了	I-歌曲名
+我	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyAM", "id": "5d30170d7b7e066678c510ce"}
+请	O
+播	O
+放	O
+，	O
+1	O
+5	O
+4	O
+5	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8a9be"}
+打	O
+电	O
+话	O
+给	O
+戴	B-人名
+建	I-人名
+平	L-人名
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4d15e"}
+元	B-日期时间
+旦	L-日期时间
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8e2b2"}
+给	O
+刘	B-人名
+学	I-人名
+平	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c50bef"}
+阿	O
+天	O
+气	O
+预	O
+报	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578af11d965140c96bef"}
+导	O
+航	O
+到	O
+九	B-地点
+都	I-地点
+路	I-地点
+龙	I-地点
+鳞	I-地点
+路	I-地点
+口	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fc7b7e066678c353c5"}
+导	O
+航	O
+金	B-地点
+溪	I-地点
+县	I-地点
+老	I-地点
+街	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Flight_Search", "id": "5d3017257b7e066678c891a7"}
+5	B-日期时间
+点	I-日期时间
+3	I-日期时间
+3	L-日期时间
+起	O
+飞	O
+8	B-结束时间
+点	I-结束时间
+3	I-结束时间
+3	L-结束时间
+降	O
+落	O
+到	O
+虹	B-地点
+桥	I-地点
+机	I-地点
+场	L-地点
+的	O
+是	O
+哪	O
+班	O
+飞	O
+机	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017207b7e066678c7bf21"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+简	B-人名
+弘	I-人名
+亦	L-人名
+的	O
+不	B-歌曲名
+染	L-歌曲名
+。	O
+
+#	{"label": "INTENT_AC_SeatVentilationOff", "id": "5d3017167b7e066678c62a57"}
+我	O
+想	O
+关	O
+了	O
+我	O
+座	O
+椅	O
+通	O
+风	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d775784f11d965140c45fb1"}
+把	O
+空	O
+调	O
+给	O
+我	O
+开	O
+到	O
+2	B-温度值
+3	I-温度值
+度	L-温度值
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017227b7e066678c80bba"}
+唱	O
+一	O
+首	O
+情	B-歌曲名
+人	I-歌曲名
+的	I-歌曲名
+眼	I-歌曲名
+泪	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016ed7b7e066678c2394c"}
+嗯	O
+，	O
+去	O
+那	O
+个	O
+阿	B-地点
+拉	I-地点
+收	I-地点
+费	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8c85b"}
+拨	O
+打	O
+兰	B-人名
+兰	I-人名
+姐	L-人名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d77577ff11d965140c2e6ba"}
+拨	O
+号	O
+5	B-电话号码
+5	I-电话号码
+5	I-电话号码
+1	I-电话号码
+5	I-电话号码
+6	L-电话号码
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775786f11d965140c551e6"}
+到	O
+老	B-餐饮
+白	I-餐饮
+记	I-餐饮
+烩	I-餐饮
+面	L-餐饮
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c3b4c7"}
+带	O
+我	O
+去	O
+兆	B-地点
+和	I-地点
+皇	I-地点
+冠	I-地点
+假	I-地点
+日	I-地点
+酒	I-地点
+店	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d30172a7b7e066678c9633c"}
+到	O
+广	B-酒店名称
+电	I-酒店名称
+宾	I-酒店名称
+馆	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171c7b7e066678c71742"}
+打	O
+电	O
+话	O
+给	O
+海	O
+港	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775780f11d965140c33f4d"}
+导	O
+航	O
+开	B-地点
+到	I-地点
+小	I-地点
+型	I-地点
+车	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fb7b7e066678c32aea"}
+请	O
+导	O
+航	O
+酒	B-地点
+泉	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d30171f7b7e066678c798ff"}
+唱	O
+一	O
+首	O
+唐	B-人名
+古	L-人名
+的	O
+你	B-歌曲名
+的	I-歌曲名
+过	I-歌曲名
+去	I-歌曲名
+我	I-歌曲名
+不	I-歌曲名
+介	I-歌曲名
+意	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017007b7e066678c3c778"}
+导	O
+航	O
+送	B-地点
+悦	I-地点
+城	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c3ef29"}
+我	O
+想	O
+导	O
+航	O
+去	O
+花	B-地点
+园	I-地点
+大	I-地点
+道	I-地点
+加	I-地点
+油	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c77e2e"}
+放	O
+一	O
+首	O
+张	B-人名
+敬	I-人名
+轩	L-人名
+的	O
+过	B-歌曲名
+云	I-歌曲名
+雨	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Apps_News_FindByKeyword", "id": "5d775787f11d965140c5e22c"}
+播	O
+报	O
+一	O
+下	O
+开	B-地点
+封	L-地点
+新	O
+闻	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017087b7e066678c44758"}
+导	O
+航	O
+到	O
+长	B-地点
+安	I-地点
+九	I-地点
+中	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775780f11d965140c33465"}
+导	O
+航	O
+在	O
+温	B-地点
+鹿	I-地点
+城	I-地点
+区	I-地点
+先	I-地点
+e	I-地点
+电	I-地点
+信	I-地点
+4	I-地点
+s	I-地点
+店	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d30170b7b7e066678c4bece"}
+导	O
+航	O
+到	O
+雄	B-地点
+鱼	I-地点
+机	I-地点
+线	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4c4ae"}
+2	B-日期时间
+0	I-日期时间
+1	I-日期时间
+8	I-日期时间
+年	I-日期时间
+1	I-日期时间
+1	I-日期时间
+月	I-日期时间
+4	I-日期时间
+号	L-日期时间
+天	O
+气	O
+怎	O
+么	O
+样	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f67b7e066678c28da7"}
+导	O
+航	O
+到	O
+八	B-地点
+湖	I-地点
+镇	I-地点
+政	I-地点
+府	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fa7b7e066678c314f0"}
+到	O
+聚	B-地点
+贤	I-地点
+补	I-地点
+偿	I-地点
+山	L-地点
+怎	O
+么	O
+走	O
+？	O
+
+#	{"label": "INTENT_AC_MistRemovalOn", "id": "5d775783f11d965140c4276e"}
+请	O
+把	O
+除	B-除霜类型
+雾	L-除霜类型
+功	O
+能	O
+开	O
+启	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017237b7e066678c8515a"}
+帮	O
+我	O
+放	O
+大	B-人名
+壮	L-人名
+的	O
+，	O
+怀	B-歌曲名
+念	I-歌曲名
+青	I-歌曲名
+春	L-歌曲名
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d775783f11d965140c451a9"}
+开	O
+空	O
+调	O
+温	O
+度	O
+2	B-温度值
+2	L-温度值
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c85128"}
+请	O
+打	O
+开	O
+音	O
+乐	O
+，	O
+请	O
+导	B-人名
+狼	L-人名
+的	O
+歌	O
+曲	O
+。	O
+
+#	{"label": "INTENT_Gen_WUWChange", "id": "5d3017297b7e066678c92efa"}
+帮	O
+你	O
+变	O
+更	O
+名	O
+字	O
+以	O
+后	O
+叫	O
+为	O
+大	B-唤醒词名
+白	L-唤醒词名
+行	O
+吗	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d30171f7b7e066678c79f3c"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+别	U-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c90b83"}
+发	B-地点
+展	I-地点
+大	I-地点
+道	I-地点
+博	I-地点
+纳	I-地点
+汽	I-地点
+车	I-地点
+城	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d77577ff11d965140c2e479"}
+打	O
+电	O
+话	O
+给	O
+1	B-电话号码
+8	I-电话号码
+5	I-电话号码
+8	I-电话号码
+1	I-电话号码
+0	I-电话号码
+5	I-电话号码
+9	I-电话号码
+2	I-电话号码
+4	I-电话号码
+6	L-电话号码
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d30170b7b7e066678c4b3f0"}
+迁	B-地点
+安	L-地点
+天	O
+气	O
+如	O
+何	O
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017197b7e066678c6a35a"}
+帮	O
+我	O
+把	O
+左	B-座椅位置
+边	L-座椅位置
+空	O
+调	O
+至	O
+2	O
+5	O
+格	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c39b7b"}
+我	O
+要	O
+去	O
+九	B-地点
+里	I-地点
+河	I-地点
+湿	I-地点
+地	I-地点
+公	I-地点
+园	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyAM", "id": "5d3017137b7e066678c5b3e7"}
+播	O
+放	O
+8	O
+0	O
+5	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c62954"}
+一	O
+首	O
+他	B-歌曲名
+还	I-歌曲名
+是	I-歌曲名
+不	I-歌曲名
+懂	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017247b7e066678c85ca8"}
+唱	O
+一	O
+首	O
+刘	B-人名
+德	I-人名
+华	L-人名
+的	O
+歌	O
+，	O
+莲	B-歌曲名
+王	I-歌曲名
+妃	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775780f11d965140c36d80"}
+我	O
+要	O
+去	O
+杜	B-地点
+泽	I-地点
+火	I-地点
+锅	I-地点
+店	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775780f11d965140c34f0b"}
+导	O
+航	O
+濮	B-地点
+院	I-地点
+镇	I-地点
+濮	I-地点
+院	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6bc8e"}
+我	O
+想	O
+听	O
+孙	B-人名
+小	I-人名
+蕊	L-人名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d77577ff11d965140c2db91"}
+3	B-电话号码
+7	I-电话号码
+3	I-电话号码
+7	I-电话号码
+7	I-电话号码
+0	I-电话号码
+7	L-电话号码
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017297b7e066678c94da2"}
+去	O
+小	B-餐厅类型
+吃	L-餐厅类型
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d775783f11d965140c44a23"}
+将	O
+室	O
+内	O
+温	O
+度	O
+调	O
+到	O
+二	O
+十	O
+二	B-温度值
+十	I-温度值
+度	L-温度值
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c90dd1"}
+嗯	O
+，	O
+搜	O
+索	O
+去	O
+体	B-地点
+育	I-地点
+大	I-地点
+道	I-地点
+的	I-地点
+中	I-地点
+国	I-地点
+银	I-地点
+行	L-地点
+。	O
+
+#	{"label": "INTENT_Traffic_InquireCarRestriction", "id": "5d3017277b7e066678c8de31"}
+今	B-日期时间
+天	L-日期时间
+车	O
+辆	O
+限	O
+号	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775783f11d965140c41343"}
+请	O
+导	O
+航	O
+到	O
+吴	B-地点
+中	I-地点
+区	I-地点
+珠	I-地点
+江	I-地点
+南	I-地点
+路	I-地点
+9	I-地点
+9	I-地点
+9	I-地点
+-	I-地点
+3	I-地点
+号	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c839a8"}
+给	O
+我	O
+来	O
+一	O
+首	O
+伤	B-歌曲名
+透	I-歌曲名
+我	I-歌曲名
+的	I-歌曲名
+心	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c77d99"}
+放	O
+一	O
+首	O
+康	B-人名
+淑	I-人名
+容	L-人名
+的	O
+魔	B-歌曲名
+鬼	I-歌曲名
+中	I-歌曲名
+的	I-歌曲名
+天	I-歌曲名
+使	L-歌曲名
+。	O
+
+#	{"label": "INTENT_AC_TemperatureMax", "id": "5d3017197b7e066678c687b0"}
+把	O
+左	B-座椅位置
+边	L-座椅位置
+的	O
+温	O
+度	O
+开	O
+最	B-温度调节值
+热	L-温度调节值
+
+#	{"label": "INTENT_VEH_CloseWindow", "id": "5d775785f11d965140c4b022"}
+后	B-座椅位置
+车	L-座椅位置
+窗	O
+关	O
+了	O
+吗	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fc7b7e066678c35880"}
+导	O
+航	O
+金	B-地点
+色	I-地点
+堂	I-地点
+街	I-地点
+钱	I-地点
+塘	I-地点
+萧	I-地点
+山	I-地点
+金	I-地点
+色	I-地点
+钱	I-地点
+塘	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775786f11d965140c55261"}
+前	O
+面	O
+镇	O
+上	O
+有	O
+什	O
+么	O
+好	O
+吃	O
+的	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171d7b7e066678c74056"}
+给	O
+徐	B-人名
+彪	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c8ffa0"}
+义	B-地点
+蓬	I-地点
+老	I-地点
+医	I-地点
+院	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171e7b7e066678c75f8f"}
+给	O
+李	B-人名
+炎	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c6289a"}
+y	B-歌曲名
+o	I-歌曲名
+u	I-歌曲名
+ 	I-歌曲名
+a	I-歌曲名
+r	I-歌曲名
+e	I-歌曲名
+，	I-歌曲名
+m	I-歌曲名
+y	I-歌曲名
+ 	I-歌曲名
+s	I-歌曲名
+u	I-歌曲名
+n	I-歌曲名
+s	I-歌曲名
+h	I-歌曲名
+i	I-歌曲名
+n	I-歌曲名
+e	L-歌曲名
+播	O
+放	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c907e4"}
+去	O
+最	O
+近	O
+的	O
+台	B-地点
+球	I-地点
+厅	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d77578af11d965140c859b8"}
+请	O
+播	O
+放	O
+小	B-歌曲名
+毛	I-歌曲名
+驴	L-歌曲名
+贝	O
+瓦	O
+儿	B-音乐类型
+歌	L-音乐类型
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c7b0ae"}
+放	O
+首	O
+蘑	B-人名
+菇	I-人名
+兄	I-人名
+弟	L-人名
+的	O
+光	B-歌曲名
+年	I-歌曲名
+之	I-歌曲名
+外	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyName", "id": "5d30170e7b7e066678c53050"}
+嗯	O
+搜	O
+交	B-收音机节目类型名
+通	L-收音机节目类型名
+广	O
+播	O
+电	O
+台	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f97b7e066678c2e957"}
+请	O
+导	O
+航	O
+去	O
+了	O
+福	B-地点
+强	I-地点
+御	I-地点
+景	I-地点
+家	I-地点
+园	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d30170e7b7e066678c532bc"}
+打	O
+电	O
+话	O
+给	O
+6	B-电话号码
+6	I-电话号码
+2	I-电话号码
+3	I-电话号码
+7	I-电话号码
+2	L-电话号码
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578af11d965140c95e92"}
+导	O
+航	O
+到	O
+一	B-地点
+那	I-地点
+个	I-地点
+裕	I-地点
+隆	I-地点
+4	I-地点
+s	I-地点
+店	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8b6c2"}
+打	O
+电	O
+话	O
+给	O
+给	O
+链	B-人名
+家	I-人名
+李	I-人名
+靓	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77577ff11d965140c310ae"}
+导	O
+航	O
+去	O
+河	B-地点
+池	I-地点
+镇	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c53a94"}
+金	B-餐饮
+达	I-餐饮
+莱	I-餐饮
+烧	I-餐饮
+烤	L-餐饮
+。	O
+
+#	{"label": "INTENT_Gen_WUWChange", "id": "5d3017297b7e066678c94992"}
+更	O
+换	O
+唤	O
+醒	O
+名	O
+字	O
+以	O
+后	O
+叫	O
+作	O
+大	B-唤醒词名
+白	L-唤醒词名
+好	O
+不	O
+好	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c7434f"}
+播	O
+放	O
+无	B-歌曲名
+敌	L-歌曲名
+的	O
+音	O
+乐	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171e7b7e066678c76c0f"}
+拨	O
+号	O
+妈	U-人名
+的	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Apps_Stock_QuerySpecificStock", "id": "5d775787f11d965140c5ec11"}
+经	B-股票名
+意	I-股票名
+实	I-股票名
+业	L-股票名
+的	O
+股	B-股票参数
+价	L-股票参数
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d30172a7b7e066678c9610f"}
+到	O
+屯	B-酒店名称
+门	I-酒店名称
+客	I-酒店名称
+栈	L-酒店名称
+。	O
+
+#	{"label": "INTENT_AC_TemperatureDecrease", "id": "5d3017177b7e066678c6507c"}
+帮	O
+我	O
+把	O
+左	B-座椅位置
+边	L-座椅位置
+这	O
+边	O
+的	O
+温	O
+度	O
+调	O
+低	O
+一	B-温度调节值
+点	L-温度调节值
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c51b8b"}
+朱	B-餐饮
+里	I-餐饮
+镇	I-餐饮
+餐	I-餐饮
+厅	L-餐饮
+那	O
+个	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017017b7e066678c3fad0"}
+导	O
+航	O
+鱼	B-地点
+洞	I-地点
+化	I-地点
+龙	I-地点
+路	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9b1dc"}
+导	O
+航	O
+到	O
+永	B-地点
+兴	I-地点
+县	I-地点
+城	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017007b7e066678c3db82"}
+导	O
+航	O
+飞	B-地点
+龙	I-地点
+山	L-地点
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017187b7e066678c67f09"}
+左	B-座椅位置
+侧	L-座椅位置
+温	O
+度	O
+调	O
+到	O
+2	B-温度值
+5	I-温度值
+度	L-温度值
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017017b7e066678c3f213"}
+到	O
+利	B-地点
+辛	I-地点
+张	I-地点
+村	I-地点
+乡	I-地点
+镇	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775786f11d965140c56b81"}
+帮	O
+我	O
+肚	O
+子	O
+饿	O
+了	O
+，	O
+找	O
+一	O
+家	O
+饭	O
+店	O
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775786f11d965140c55f59"}
+因	O
+为	O
+爱	O
+咖	B-餐饮
+啡	L-餐饮
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c3d64c"}
+帮	O
+我	O
+导	O
+航	O
+附	O
+近	O
+的	O
+烟	B-地点
+店	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d30171f7b7e066678c7a52d"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+王	B-人名
+北	I-人名
+河	L-人名
+的	O
+陷	B-歌曲名
+阱	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5a7fa"}
+搜	O
+索	O
+福	B-地点
+州	I-地点
+晋	I-地点
+都	L-地点
+戴	B-酒店名称
+斯	I-酒店名称
+国	I-酒店名称
+际	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5a928"}
+敦	B-酒店名称
+煌	I-酒店名称
+天	I-酒店名称
+润	I-酒店名称
+国	I-酒店名称
+际	I-酒店名称
+大	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775786f11d965140c5776d"}
+我	O
+要	O
+吃	O
+过	O
+桥	O
+去	O
+，	O
+我	O
+要	O
+吃	O
+湘	B-餐厅类型
+菜	L-餐厅类型
+。	O
+
+#	{"label": "INTENT_Nav_InquireTrafficToLocation", "id": "5d30171e7b7e066678c76b7d"}
+说	O
+开	O
+了	O
+也	O
+要	O
+看	O
+路	O
+况	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c7820d"}
+放	O
+一	O
+首	O
+撒	B-歌曲名
+拉	I-歌曲名
+族	I-歌曲名
+骆	I-歌曲名
+驼	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8ef97"}
+给	O
+胡	B-人名
+王	I-人名
+平	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d3017287b7e066678c91555"}
+你	O
+怎	O
+么	O
+知	O
+道	O
+附	O
+近	O
+的	O
+汉	B-酒店名称
+庭	I-酒店名称
+宾	I-酒店名称
+馆	L-酒店名称
+？	O
+
+#	{"label": "INTENT_Nav_SetDestinationByPOI", "id": "5d30171f7b7e066678c783d5"}
+到	O
+袍	B-地点
+江	L-地点
+的	O
+大	B-地点
+润	I-地点
+发	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775780f11d965140c33bc9"}
+导	O
+航	O
+导	O
+航	O
+海	B-地点
+林	I-地点
+市	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017297b7e066678c93ca1"}
+2	O
+4	O
+小	O
+时	O
+营	O
+业	O
+的	O
+肯	B-餐饮
+德	I-餐饮
+基	L-餐饮
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017197b7e066678c693ea"}
+我	O
+想	O
+把	O
+左	B-座椅位置
+边	L-座椅位置
+空	O
+调	O
+调	O
+为	O
+2	O
+5	O
+档	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017217b7e066678c7e8b6"}
+唱	O
+一	O
+首	O
+平	B-歌曲名
+凡	I-歌曲名
+的	I-歌曲名
+我	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c53901"}
+那	O
+边	O
+见	O
+包	B-餐饮
+子	L-餐饮
+了	O
+吗	O
+？	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017157b7e066678c5eb4f"}
+把	O
+副	B-座椅位置
+驾	L-座椅位置
+驶	O
+空	O
+调	O
+为	O
+2	O
+5	O
+格	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4fd70"}
+看	O
+一	O
+下	O
+惠	B-地点
+州	I-地点
+博	I-地点
+罗	L-地点
+的	O
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_Gen_ScreenSwitch", "id": "5d77578af11d965140c94627"}
+把	O
+无	B-界面名称
+线	I-界面名称
+网	I-界面名称
+卡	I-界面名称
+界	I-界面名称
+面	L-界面名称
+开	O
+开	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d3017117b7e066678c58efe"}
+1	B-电话号码
+3	I-电话号码
+8	I-电话号码
+1	I-电话号码
+3	I-电话号码
+3	I-电话号码
+4	I-电话号码
+6	I-电话号码
+0	I-电话号码
+6	I-电话号码
+6	L-电话号码
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017217b7e066678c7ee8a"}
+唱	O
+一	O
+首	O
+，	O
+老	B-歌曲名
+公	I-歌曲名
+赚	I-歌曲名
+钱	I-歌曲名
+老	I-歌曲名
+婆	I-歌曲名
+花	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d30171f7b7e066678c79a4a"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+刘	B-人名
+德	I-人名
+华	L-人名
+新	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775787f11d965140c63415"}
+去	O
+中	B-地点
+国	I-地点
+厨	I-地点
+房	I-地点
+文	I-地点
+化	I-地点
+博	I-地点
+物	I-地点
+馆	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017287b7e066678c90fa7"}
+到	O
+汉	B-餐厅类型
+堡	I-餐厅类型
+店	L-餐厅类型
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77577ff11d965140c31650"}
+导	O
+航	O
+去	O
+玉	B-地点
+林	I-地点
+市	I-地点
+电	I-地点
+脑	I-地点
+城	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c8117c"}
+歌	O
+曲	O
+想	B-歌曲名
+念	I-歌曲名
+你	I-歌曲名
+妈	I-歌曲名
+妈	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6cad2"}
+我	O
+想	O
+听	O
+爱	B-歌曲名
+一	I-歌曲名
+回	I-歌曲名
+伤	I-歌曲名
+一	I-歌曲名
+回	L-歌曲名
+这	O
+首	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c7c394"}
+来	O
+一	O
+首	O
+快	B-歌曲名
+乐	I-歌曲名
+的	I-歌曲名
+小	I-歌曲名
+舞	I-歌曲名
+伴	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d3017297b7e066678c9493c"}
+到	O
+一	O
+号	O
+线	O
+莘	B-地点
+庄	L-地点
+求	B-酒店名称
+职	I-酒店名称
+青	I-酒店名称
+年	I-酒店名称
+旅	I-酒店名称
+舍	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d3017097b7e066678c467a3"}
+明	B-日期时间
+天	L-日期时间
+我	O
+出	O
+门	O
+用	O
+带	O
+伞	O
+吗	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestinationByAroundDest", "id": "5d30171f7b7e066678c7904a"}
+目	B-参考点名
+的	I-参考点名
+地	L-参考点名
+附	O
+近	O
+的	O
+加	B-地点
+油	I-地点
+站	L-地点
+
+#	{"label": "INTENT_Traffic_InquireCarRestriction", "id": "5d775787f11d965140c614ae"}
+2	B-日期时间
+6	I-日期时间
+号	L-日期时间
+邢	B-地点
+台	I-地点
+市	L-地点
+限	O
+号	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c373f9"}
+我	O
+要	O
+去	O
+浪	B-地点
+溪	I-地点
+花	I-地点
+园	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017017b7e066678c3f06a"}
+导	O
+航	O
+高	B-地点
+技	I-地点
+街	I-地点
+与	I-地点
+益	I-地点
+乐	I-地点
+路	I-地点
+交	I-地点
+叉	I-地点
+口	L-地点
+。	O
+
+#	{"label": "INTENT_AC_FanSetMode", "id": "5d3017147b7e066678c5d3f4"}
+空	O
+调	O
+吹	B-风向模式名
+脚	I-风向模式名
+吹	I-风向模式名
+脸	L-风向模式名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6bf9c"}
+我	O
+想	O
+听	O
+张	B-人名
+思	I-人名
+宇	L-人名
+的	O
+歌	O
+曲	O
+。	O
+
+#	{"label": "INTENT_AC_FanSetMode", "id": "5d775783f11d965140c43020"}
+将	O
+风	O
+吹	B-风向模式名
+脸	L-风向模式名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c8fe59"}
+东	B-地点
+站	I-地点
+地	I-地点
+下	I-地点
+停	I-地点
+车	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77577ff11d965140c30f2d"}
+导	O
+航	O
+去	O
+江	B-地点
+城	I-地点
+学	I-地点
+校	L-地点
+。	O
+
+#	{"label": "INTENT_VEH_Window_High", "id": "5d775785f11d965140c4b616"}
+前	B-座椅位置
+面	L-座椅位置
+车	O
+窗	O
+升	O
+一	B-车窗控制状态
+半	L-车窗控制状态
+。	O
+
+#	{"label": "INTENT_Nav_InquireTrafficToLocation", "id": "5d30171c7b7e066678c70763"}
+到	O
+公	B-地点
+司	L-地点
+交	O
+通	O
+怎	O
+么	O
+样	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775787f11d965140c63234"}
+去	O
+世	B-地点
+纪	I-地点
+风	I-地点
+情	I-地点
+家	I-地点
+具	I-地点
+城	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyFM", "id": "5d30170d7b7e066678c50b70"}
+调	B-波段类型
+频	I-波段类型
+F	I-波段类型
+M	L-波段类型
+9	O
+9	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d30170e7b7e066678c52d7d"}
+拨	O
+打	O
+电	O
+话	O
+1	B-电话号码
+3	I-电话号码
+6	I-电话号码
+7	I-电话号码
+5	I-电话号码
+1	I-电话号码
+4	I-电话号码
+1	I-电话号码
+6	I-电话号码
+6	L-电话号码
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c996ba"}
+导	O
+航	O
+到	O
+巴	B-地点
+福	I-地点
+镇	I-地点
+政	I-地点
+府	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialNumber", "id": "5d3017137b7e066678c5c6e4"}
+打	O
+电	O
+话	O
+6	B-电话号码
+2	I-电话号码
+0	I-电话号码
+5	I-电话号码
+3	L-电话号码
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c512ff"}
+搜	O
+索	O
+一	B-餐饮
+品	I-餐饮
+香	I-餐饮
+木	I-餐饮
+桶	I-餐饮
+饭	L-餐饮
+。	O
+
+#	{"label": "INTENT_System_Volume_Inc", "id": "5d775787f11d965140c609fa"}
+音	O
+量	O
+大	O
+三	B-声音调节值
+格	L-声音调节值
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775786f11d965140c55a0e"}
+咯	B-餐饮
+咯	I-餐饮
+火	I-餐饮
+锅	I-餐饮
+店	L-餐饮
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyFM", "id": "5d30170f7b7e066678c55cb6"}
+我	O
+要	O
+听	O
+收	O
+音	O
+机	O
+，	O
+1	O
+0	O
+5	O
+.	O
+4	O
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d30170c7b7e066678c4d04c"}
+1	B-日期时间
+4	I-日期时间
+号	L-日期时间
+天	O
+气	O
+预	O
+报	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9f2e9"}
+导	O
+航	O
+包	B-地点
+头	I-地点
+市	I-地点
+天	I-地点
+星	I-地点
+汽	I-地点
+车	I-地点
+贸	I-地点
+易	I-地点
+公	I-地点
+司	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9d601"}
+导	O
+航	O
+到	O
+蚌	B-地点
+埠	I-地点
+市	I-地点
+宝	I-地点
+龙	I-地点
+广	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c7ca9e"}
+来	O
+一	O
+首	O
+清	B-歌曲名
+早	I-歌曲名
+起	I-歌曲名
+床	L-歌曲名
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d775784f11d965140c4719b"}
+给	O
+我	O
+调	O
+到	O
+2	B-温度值
+4	I-温度值
+度	L-温度值
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171c7b7e066678c71e46"}
+打	O
+电	O
+话	O
+给	O
+陶	B-人名
+希	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016ff7b7e066678c3a83b"}
+到	O
+交	B-地点
+通	I-地点
+事	I-地点
+故	I-地点
+保	I-地点
+险	I-地点
+理	I-地点
+赔	I-地点
+服	I-地点
+务	I-地点
+中	I-地点
+心	I-地点
+三	I-地点
+里	I-地点
+庵	I-地点
+点	L-地点
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017167b7e066678c62bc9"}
+我	O
+要	O
+把	O
+左	B-座椅位置
+侧	L-座椅位置
+这	O
+边	O
+的	O
+空	O
+调	O
+至	O
+2	O
+5	O
+格	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775784f11d965140c48193"}
+到	O
+冬	B-地点
+季	I-地点
+教	I-地点
+化	I-地点
+街	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Flight_Search", "id": "5d3017257b7e066678c8ab63"}
+上	B-出发地
+海	L-出发地
+去	O
+大	B-地点
+理	L-地点
+的	O
+飞	O
+机	O
+明	B-日期时间
+天	L-日期时间
+有	O
+哪	O
+些	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775789f11d965140c7f7e6"}
+去	O
+金	B-地点
+科	I-地点
+观	I-地点
+湖	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d77578af11d965140c917fc"}
+德	B-地点
+康	I-地点
+火	I-地点
+车	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c79b8b"}
+放	O
+嗯	O
+周	B-人名
+杰	I-人名
+伦	L-人名
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77577ff11d965140c321f1"}
+导	O
+航	O
+去	O
+西	B-地点
+溪	I-地点
+悦	I-地点
+墅	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fb7b7e066678c32f08"}
+去	O
+高	B-地点
+科	I-地点
+荣	I-地点
+境	I-地点
+二	I-地点
+期	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c3cd5c"}
+帮	O
+我	O
+导	O
+航	O
+到	O
+鱼	B-地点
+化	I-地点
+寨	I-地点
+地	I-地点
+铁	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c77d62"}
+放	O
+一	O
+首	O
+幸	B-专辑名
+福	I-专辑名
+来	I-专辑名
+敲	I-专辑名
+门	L-专辑名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c83a35"}
+给	O
+我	O
+来	O
+一	O
+首	O
+卡	O
+尼	O
+西	O
+红	O
+西	B-专辑名
+红	I-专辑名
+世	L-专辑名
+插	B-音乐类型
+曲	L-音乐类型
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d3017287b7e066678c90729"}
+高	B-地点
+坪	L-地点
+安	B-酒店名称
+泰	I-酒店名称
+商	I-酒店名称
+务	I-酒店名称
+宾	I-酒店名称
+馆	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByPOI", "id": "5d77578af11d965140c93979"}
+新	B-地点
+会	I-地点
+金	I-地点
+源	I-地点
+吉	I-地点
+利	I-地点
+4	I-地点
+s	I-地点
+店	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c753f8"}
+播	O
+放	O
+痴	B-歌曲名
+d	I-歌曲名
+战	I-歌曲名
+歌	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017237b7e066678c840c9"}
+唱	O
+一	O
+首	O
+斯	B-歌曲名
+卡	I-歌曲名
+布	I-歌曲名
+罗	I-歌曲名
+集	I-歌曲名
+市	L-歌曲名
+纯	B-音乐类型
+音	I-音乐类型
+乐	L-音乐类型
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c733ce"}
+播	O
+放	O
+哈	B-歌曲名
+尼	I-歌曲名
+老	I-歌曲名
+师	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017257b7e066678c8a137"}
+我	O
+要	O
+去	O
+城	O
+镇	O
+吃	O
+饭	O
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017157b7e066678c5fb76"}
+右	B-座椅位置
+侧	L-座椅位置
+的	O
+空	O
+调	O
+温	O
+度	O
+设	O
+至	O
+2	B-温度值
+5	I-温度值
+度	L-温度值
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017177b7e066678c654c6"}
+我	O
+要	O
+把	O
+主	B-座椅位置
+驾	L-座椅位置
+那	O
+边	O
+的	O
+空	O
+调	O
+温	O
+度	O
+设	O
+置	O
+为	O
+2	O
+5	O
+格	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017067b7e066678c417b2"}
+导	O
+航	O
+到	O
+漳	B-地点
+州	I-地点
+六	I-地点
+盘	I-地点
+镇	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017267b7e066678c8dbc2"}
+点	O
+点	O
+的	O
+饭	O
+店	O
+吧	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171c7b7e066678c71dd1"}
+打	O
+电	O
+话	O
+给	O
+满	B-人名
+红	L-人名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c83857"}
+给	O
+我	O
+放	O
+首	O
+说	B-歌曲名
+爱	I-歌曲名
+你	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d3017267b7e066678c8d025"}
+去	O
+升	B-酒店名称
+辉	I-酒店名称
+宾	I-酒店名称
+馆	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578af11d965140c962fe"}
+导	O
+航	O
+到	O
+下	B-地点
+黄	I-地点
+村	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Stock_QuerySpecificStock", "id": "5d3017287b7e066678c92c38"}
+请	O
+帮	O
+我	O
+查	O
+一	O
+下	O
+吉	B-股票名
+利	I-股票名
+汽	I-股票名
+车	L-股票名
+的	O
+股	O
+票	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171a7b7e066678c6bd29"}
+拨	O
+打	O
+李	B-人名
+俊	L-人名
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171e7b7e066678c772c5"}
+给	O
+段	B-人名
+潇	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d77578af11d965140c8584b"}
+请	O
+播	O
+放	O
+周	B-人名
+星	I-人名
+文	L-人名
+的	O
+眉	B-歌曲名
+飞	I-歌曲名
+色	I-歌曲名
+舞	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyFM", "id": "5d30170c7b7e066678c4ea8b"}
+我	O
+想	O
+调	O
+到	O
+广	O
+播	O
+F	B-波段类型
+M	L-波段类型
+1	O
+0	O
+4	O
+.	O
+3	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyName", "id": "5d3017127b7e066678c59afd"}
+听	O
+湖	B-收音机电台名
+南	I-收音机电台名
+新	I-收音机电台名
+闻	I-收音机电台名
+广	I-收音机电台名
+播	L-收音机电台名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017217b7e066678c7fa94"}
+我	O
+要	O
+听	O
+三	O
+国	O
+的	O
+评	B-网络电台分类名
+书	L-网络电台分类名
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775786f11d965140c5465c"}
+d	O
+彭	O
+厨	O
+饭	O
+店	O
+彭	O
+厨	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByNearby", "id": "5d30171c7b7e066678c71865"}
+搜	O
+一	O
+下	O
+附	O
+近	O
+的	O
+建	B-地点
+设	I-地点
+银	I-地点
+行	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c7293e"}
+播	O
+放	O
+两	B-歌曲名
+只	I-歌曲名
+狗	I-歌曲名
+狗	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9ab74"}
+导	O
+航	O
+到	O
+杭	B-地点
+州	I-地点
+行	I-地点
+，	I-地点
+丽	I-地点
+江	I-地点
+别	I-地点
+克	I-地点
+汽	I-地点
+车	I-地点
+销	I-地点
+销	I-地点
+售	I-地点
+服	I-地点
+务	I-地点
+有	I-地点
+限	I-地点
+公	I-地点
+司	L-地点
+。	O
+
+#	{"label": "INTENT_Gen_WUWChange", "id": "5d3017287b7e066678c90dd7"}
+起	O
+个	O
+名	O
+字	O
+以	O
+后	O
+称	O
+做	O
+大	B-唤醒词名
+白	L-唤醒词名
+好	O
+吗	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d775785f11d965140c4da98"}
+天	O
+气	O
+预	O
+报	O
+是	O
+吗	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fe7b7e066678c39856"}
+去	O
+北	B-地点
+辰	I-地点
+车	I-地点
+管	I-地点
+所	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017217b7e066678c7ff18"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+那	O
+些	O
+伤	B-歌曲名
+不	I-歌曲名
+起	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171d7b7e066678c75036"}
+打	O
+电	O
+话	O
+给	O
+齐	B-人名
+辉	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578af11d965140c96381"}
+导	O
+航	O
+到	O
+东	B-地点
+五	I-地点
+路	I-地点
+锦	I-地点
+祥	I-地点
+炝	I-地点
+锅	I-地点
+城	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_InquireTrafficToLocation", "id": "5d30171d7b7e066678c752c9"}
+能	O
+绕	O
+过	O
+去	O
+吗	O
+？	O
+堵	O
+车	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6cdf0"}
+我	O
+想	O
+听	O
+窦	B-人名
+炎	L-人名
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestinationByPOI", "id": "5d30171f7b7e066678c7807c"}
+中	B-地点
+国	L-地点
+的	O
+电	B-地点
+影	I-地点
+院	L-地点
+在	O
+哪	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017087b7e066678c4578b"}
+导	O
+航	O
+到	O
+淮	B-地点
+南	I-地点
+街	L-地点
+人	B-地点
+民	I-地点
+医	I-地点
+院	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f67b7e066678c27588"}
+到	O
+百	B-地点
+方	I-地点
+进	I-地点
+出	I-地点
+口	I-地点
+有	I-地点
+限	I-地点
+公	I-地点
+司	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d30170b7b7e066678c4bf4d"}
+查	O
+一	O
+下	O
+廊	B-地点
+坊	L-地点
+今	B-日期时间
+天	L-日期时间
+的	O
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017157b7e066678c5f4f8"}
+把	O
+右	B-座椅位置
+侧	L-座椅位置
+这	O
+边	O
+的	O
+温	O
+度	O
+设	O
+到	O
+2	O
+5	O
+档	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017067b7e066678c41b33"}
+导	O
+航	O
+到	O
+力	B-地点
+邦	I-地点
+工	I-地点
+贸	I-地点
+有	I-地点
+限	I-地点
+公	I-地点
+司	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Train_Search", "id": "5d3017287b7e066678c91be0"}
+帮	O
+我	O
+买	O
+今	B-日期时间
+天	I-日期时间
+下	I-日期时间
+午	L-日期时间
+到	O
+北	B-地点
+京	L-地点
+的	O
+高	B-列车类型
+铁	L-列车类型
+票	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171e7b7e066678c75d76"}
+电	O
+话	O
+给	O
+姚	B-人名
+志	I-人名
+莎	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5c34e"}
+苏	B-地点
+州	I-地点
+阳	I-地点
+澄	I-地点
+湖	L-地点
+伊	B-酒店名称
+维	I-酒店名称
+景	I-酒店名称
+国	I-酒店名称
+际	I-酒店名称
+度	I-酒店名称
+假	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017087b7e066678c4519f"}
+导	O
+航	O
+到	O
+淅	B-地点
+川	I-地点
+县	I-地点
+张	I-地点
+寨	I-地点
+村	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c70308"}
+打	O
+开	O
+北	B-歌曲名
+京	I-歌曲名
+欢	I-歌曲名
+迎	I-歌曲名
+你	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171d7b7e066678c73d06"}
+没	O
+听	O
+说	O
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8a83e"}
+打	O
+电	O
+话	O
+给	O
+张	B-人名
+雪	I-人名
+怡	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fc7b7e066678c35790"}
+导	O
+航	O
+金	B-地点
+童	I-地点
+派	I-地点
+出	I-地点
+所	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c8183e"}
+点	O
+一	O
+首	O
+唢	O
+呐	O
+，	O
+百	B-歌曲名
+鸟	I-歌曲名
+朝	I-歌曲名
+凤	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c52473"}
+熊	B-餐饮
+猫	I-餐饮
+火	I-餐饮
+锅	L-餐饮
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775782f11d965140c387c6"}
+我	O
+要	O
+去	O
+雅	B-地点
+安	I-地点
+市	I-地点
+雨	I-地点
+都	I-地点
+饭	I-地点
+店	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_RouteOption", "id": "5d3016da7b7e066678c217c6"}
+走	O
+高	B-路线类型名
+速	I-路线类型名
+公	I-路线类型名
+路	L-路线类型名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c69f34"}
+帮	O
+我	O
+点	O
+播	O
+一	O
+首	O
+，	O
+老	B-歌曲名
+婆	I-歌曲名
+你	I-歌曲名
+辛	I-歌曲名
+苦	I-歌曲名
+了	L-歌曲名
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017157b7e066678c5fcb8"}
+我	O
+要	O
+把	O
+左	B-座椅位置
+边	L-座椅位置
+那	O
+边	O
+的	O
+空	O
+调	O
+温	O
+度	O
+设	O
+置	O
+到	O
+2	O
+5	O
+格	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d3017067b7e066678c419f4"}
+京	B-地点
+山	I-地点
+县	L-地点
+天	O
+气	O
+怎	O
+么	O
+样	O
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775780f11d965140c353eb"}
+导	O
+航	O
+紫	B-地点
+砂	I-地点
+壶	I-地点
+度	I-地点
+假	I-地点
+村	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c66c2f"}
+听	O
+月	B-歌曲名
+亮	I-歌曲名
+惹	I-歌曲名
+的	I-歌曲名
+祸	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5ba78"}
+玉	O
+田	O
+玉	B-地点
+田	L-地点
+杀	B-酒店名称
+驿	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6b309"}
+我	O
+想	O
+听	O
+人	B-歌曲名
+海	I-歌曲名
+情	I-歌曲名
+缘	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c7c3a4"}
+来	O
+一	O
+首	O
+怀	B-专辑名
+念	I-专辑名
+青	I-专辑名
+春	L-专辑名
+的	O
+歌	O
+曲	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017087b7e066678c44443"}
+导	O
+航	O
+到	O
+海	B-地点
+龙	I-地点
+国	I-地点
+际	I-地点
+花	I-地点
+园	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c65765"}
+你	O
+好	O
+你	O
+好	O
+，	O
+我	O
+想	O
+听	O
+刀	B-人名
+郎	L-人名
+唱	O
+的	O
+西	B-歌曲名
+海	I-歌曲名
+情	I-歌曲名
+歌	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Apps_Flight_Search", "id": "5d3017267b7e066678c8b24b"}
+明	B-日期时间
+天	L-日期时间
+首	B-出发地
+都	I-出发地
+机	I-出发地
+场	L-出发地
+飞	O
+浦	B-地点
+东	I-地点
+机	I-地点
+场	L-地点
+的	O
+航	O
+班	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775784f11d965140c48551"}
+到	O
+同	B-地点
+和	I-地点
+路	I-地点
+口	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c51be0"}
+李	B-餐饮
+进	I-餐饮
+士	I-餐饮
+堂	I-餐饮
+原	I-餐饮
+镇	I-餐饮
+羊	I-餐饮
+肉	I-餐饮
+羊	I-餐饮
+肉	I-餐饮
+汤	L-餐饮
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c7911b"}
+放	O
+一	O
+首	O
+辣	B-歌曲名
+妹	I-歌曲名
+子	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c66652"}
+听	O
+京	B-音乐类型
+剧	L-音乐类型
+成	B-歌曲名
+绩	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017237b7e066678c84188"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+Q	B-歌曲名
+Q	I-歌曲名
+爱	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c6974c"}
+帮	O
+我	O
+播	O
+放	O
+音	O
+乐	O
+，	O
+我	B-歌曲名
+已	I-歌曲名
+经	I-歌曲名
+爱	I-歌曲名
+上	I-歌曲名
+你	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6c3fb"}
+我	O
+想	O
+听	O
+放	O
+了	O
+，	O
+我	B-歌曲名
+忘	I-歌曲名
+了	I-歌曲名
+我	L-歌曲名
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017167b7e066678c61f35"}
+把	O
+主	B-座椅位置
+驾	L-座椅位置
+驶	O
+那	O
+边	O
+的	O
+空	O
+调	O
+开	O
+到	O
+2	O
+5	O
+格	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f87b7e066678c2b090"}
+去	O
+雅	B-地点
+典	I-地点
+圣	I-地点
+庭	I-地点
+苑	L-地点
+。	O
+
+#	{"label": "INTENT_VEH_Window_Low", "id": "5d775785f11d965140c4bb45"}
+打	O
+开	O
+窗	O
+户	O
+，	O
+窗	O
+户	O
+降	O
+下	O
+来	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77577ff11d965140c2f183"}
+丰	B-地点
+裕	I-地点
+口	L-地点
+导	O
+航	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c817ae"}
+点	O
+一	O
+首	O
+兄	B-歌曲名
+弟	I-歌曲名
+挺	I-歌曲名
+你	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fa7b7e066678c31b59"}
+去	O
+高	B-地点
+公	I-地点
+庄	L-地点
+。	O
+
+#	{"label": "INTENT_System_Volume_Dec", "id": "5d775787f11d965140c5f80e"}
+音	O
+量	O
+减	O
+小	O
+2	B-声音调节值
+0	L-声音调节值
+。	O
+
+#	{"label": "INTENT_Ent_Media_SingleRepeat", "id": "5d3017217b7e066678c7f431"}
+循	B-循环模式
+环	L-循环模式
+单	O
+曲	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c71a63"}
+播	O
+放	O
+一	O
+曲	O
+张	B-人名
+士	I-人名
+豪	L-人名
+的	O
+，	O
+可	B-歌曲名
+以	I-歌曲名
+不	I-歌曲名
+可	I-歌曲名
+以	L-歌曲名
+？	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775784f11d965140c4a1c8"}
+到	O
+郧	B-地点
+县	I-地点
+外	I-地点
+滩	I-地点
+外	I-地点
+滩	I-地点
+一	I-地点
+号	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017087b7e066678c45c8f"}
+导	O
+航	O
+到	O
+长	B-地点
+沙	I-地点
+市	I-地点
+开	I-地点
+通	I-地点
+国	I-地点
+际	I-地点
+城	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77577ff11d965140c32c82"}
+导	O
+航	O
+去	O
+马	B-地点
+店	I-地点
+收	I-地点
+费	I-地点
+站	L-地点
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d3017107b7e066678c57034"}
+博	B-人名
+瑞	L-人名
+的	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8fadf"}
+请	O
+给	O
+我	O
+呼	O
+叫	O
+王	B-人名
+春	I-人名
+华	L-人名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171e7b7e066678c755d1"}
+打	O
+电	O
+话	O
+给	O
+秀	B-人名
+桥	L-人名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017237b7e066678c833d0"}
+帮	O
+我	O
+放	O
+一	O
+首	O
+日	O
+本	O
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Apps_Train_Search", "id": "5d3017297b7e066678c92e4f"}
+帮	O
+我	O
+查	O
+上	B-出发地
+海	L-出发地
+到	O
+北	B-地点
+京	L-地点
+的	O
+火	O
+车	O
+票	O
+最	B-价格值
+便	I-价格值
+宜	L-价格值
+的	O
+要	O
+多	O
+少	O
+钱	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d3017097b7e066678c48c2e"}
+武	B-地点
+功	L-地点
+的	O
+天	O
+气	O
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d775785f11d965140c51e02"}
+查	O
+找	O
+附	O
+近	O
+的	O
+早	B-餐饮
+餐	I-餐饮
+店	L-餐饮
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775783f11d965140c40adf"}
+蓝	B-地点
+天	I-地点
+公	I-地点
+寓	L-地点
+导	O
+航	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171e7b7e066678c764e2"}
+电	O
+话	O
+给	O
+左	B-人名
+老	I-人名
+师	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775787f11d965140c652be"}
+去	O
+方	B-地点
+欣	I-地点
+小	I-地点
+区	I-地点
+东	I-地点
+区	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f67b7e066678c28a51"}
+吉	B-地点
+利	I-地点
+驰	I-地点
+程	I-地点
+4	I-地点
+s	I-地点
+店	L-地点
+怎	O
+么	O
+走	O
+？	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c684e4"}
+嗯	O
+播	O
+放	O
+藕	B-歌曲名
+断	I-歌曲名
+丝	I-歌曲名
+连	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d3017217b7e066678c7e1cf"}
+唱	O
+一	O
+首	O
+精	B-歌曲名
+忠	I-歌曲名
+报	I-歌曲名
+国	L-歌曲名
+，	O
+猪	O
+八	O
+戒	O
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d3017137b7e066678c5c827"}
+打	O
+电	O
+话	O
+给	O
+兴	B-人名
+江	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3017017b7e066678c40047"}
+导	O
+航	O
+鸿	B-地点
+铭	I-地点
+中	I-地点
+心	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775789f11d965140c7f1af"}
+去	O
+襄	B-地点
+阳	I-地点
+唐	I-地点
+城	I-地点
+影	I-地点
+视	I-地点
+基	I-地点
+地	L-地点
+就	O
+好	O
+了	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c66cfb"}
+听	O
+歌	O
+听	O
+刘	O
+璋	B-人名
+学	I-人名
+友	L-人名
+的	O
+歌	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c79648"}
+放	O
+一	O
+首	O
+龚	B-人名
+玥	L-人名
+的	O
+冰	B-歌曲名
+糖	I-歌曲名
+葫	I-歌曲名
+芦	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_Hotel_Inquire", "id": "5d775786f11d965140c5acae"}
+曲	B-地点
+江	L-地点
+阅	B-酒店名称
+江	I-酒店名称
+楼	I-酒店名称
+酒	I-酒店名称
+店	L-酒店名称
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775789f11d965140c7f4bb"}
+去	O
+达	B-地点
+翁	I-地点
+市	I-地点
+场	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775789f11d965140c825b7"}
+给	O
+我	O
+唱	O
+一	O
+首	O
+邵	B-人名
+校	L-人名
+唱	O
+的	O
+，	O
+带	B-歌曲名
+你	I-歌曲名
+去	I-歌曲名
+旅	I-歌曲名
+行	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f87b7e066678c2c2c3"}
+请	O
+导	O
+航	O
+到	O
+西	B-地点
+安	I-地点
+市	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775789f11d965140c7e32a"}
+去	O
+济	B-地点
+宁	I-地点
+人	I-地点
+民	I-地点
+附	I-地点
+属	I-地点
+医	I-地点
+院	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d77578bf11d965140c9dd4b"}
+导	O
+航	O
+到	O
+连	B-地点
+霍	I-地点
+高	I-地点
+速	I-地点
+文	I-地点
+化	I-地点
+文	I-地点
+化	I-地点
+文	I-地点
+化	I-地点
+路	I-地点
+路	I-地点
+口	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_Rest_Inquire", "id": "5d3017267b7e066678c8c45e"}
+最	O
+近	O
+的	O
+吃	O
+饭	O
+的	O
+地	O
+方	O
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6ec48"}
+我	O
+要	O
+听	O
+，	O
+我	B-歌曲名
+以	I-歌曲名
+为	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c72144"}
+播	O
+放	O
+一	O
+首	O
+我	B-歌曲名
+的	I-歌曲名
+家	L-歌曲名
+居	O
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d3017197b7e066678c699b5"}
+我	O
+想	O
+把	O
+右	B-座椅位置
+侧	L-座椅位置
+的	O
+温	O
+度	O
+调	O
+到	O
+2	O
+5	O
+格	O
+
+#	{"label": "INTENT_AC_SeatVentilationOff", "id": "5d3017167b7e066678c62adf"}
+我	O
+想	O
+关	O
+了	O
+主	B-座椅位置
+驾	L-座椅位置
+座	O
+椅	O
+通	O
+风	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8c50a"}
+打	O
+给	O
+振	B-人名
+科	L-人名
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016f07b7e066678c24f42"}
+嗯	O
+导	O
+航	O
+到	O
+沙	B-地点
+井	I-地点
+村	I-地点
+西	I-地点
+北	I-地点
+税	I-地点
+务	I-地点
+学	I-地点
+院	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyName", "id": "5d30170e7b7e066678c53400"}
+帮	O
+我	O
+打	O
+开	O
+广	O
+播	O
+9	O
+8	O
+点	O
+到	O
+。	O
+
+#	{"label": "INTENT_Ent_Radio_SetStationbyFrequencyFM", "id": "5d30170d7b7e066678c50a43"}
+调	B-波段类型
+频	I-波段类型
+F	I-波段类型
+M	L-波段类型
+9	O
+1	O
+2	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d775780f11d965140c34f8e"}
+导	O
+航	O
+牛	B-地点
+角	I-地点
+大	I-地点
+迂	I-地点
+接	I-地点
+待	I-地点
+中	I-地点
+心	L-地点
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016fa7b7e066678c3101d"}
+请	O
+导	O
+航	O
+，	O
+江	B-地点
+苏	I-地点
+省	I-地点
+南	I-地点
+通	I-地点
+市	I-地点
+通	I-地点
+州	I-地点
+湾	I-地点
+科	I-地点
+教	I-地点
+城	L-地点
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d30170b7b7e066678c4ae7e"}
+明	B-日期时间
+天	L-日期时间
+阿	B-地点
+坝	I-地点
+州	L-地点
+的	O
+天	O
+气	O
+怎	O
+么	O
+样	O
+？	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d77578af11d965140c8d2b1"}
+拨	O
+打	O
+电	O
+话	O
+给	O
+陆	B-人名
+繁	I-人名
+天	L-人名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171b7b7e066678c6ddc5"}
+给	O
+何	B-人名
+二	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_Nav_SetDestination", "id": "5d3016df7b7e066678c2220e"}
+请	O
+帮	O
+我	O
+导	O
+航	O
+中	B-地点
+山	I-地点
+大	I-地点
+冲	L-地点
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775788f11d965140c6ed24"}
+我	O
+要	O
+听	O
+，	O
+我	B-歌曲名
+等	I-歌曲名
+到	I-歌曲名
+花	I-歌曲名
+儿	I-歌曲名
+都	I-歌曲名
+谢	I-歌曲名
+了	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Ent_Media_Play", "id": "5d775787f11d965140c6845f"}
+嗯	O
+，	O
+播	O
+放	O
+夏	B-歌曲名
+天	I-歌曲名
+的	I-歌曲名
+风	L-歌曲名
+。	O
+
+#	{"label": "INTENT_Com_Phone_DialByContact", "id": "5d30171b7b7e066678c6db46"}
+给	O
+任	B-人名
+勤	L-人名
+打	O
+电	O
+话	O
+。	O
+
+#	{"label": "INTENT_AC_TemperatureSet", "id": "5d775783f11d965140c451ac"}
+开	O
+空	O
+调	O
+温	O
+度	O
+2	B-温度值
+5	I-温度值
+度	L-温度值
+。	O
+
+#	{"label": "INTENT_Apps_Weather_Inquiry", "id": "5d30170b7b7e066678c4a790"}
+晚	B-日期时间
+上	L-日期时间
+什	O
+么	O
+天	O
+气	O
+？	O

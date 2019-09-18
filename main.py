@@ -5,7 +5,6 @@ import sys
 from tokenizer_tools.tagset.offset.corpus import Corpus
 
 from seq2annotation.server.http import load_predict_fn
-from tokenizer_tools.tagset.offset.sequence import Sequence
 
 
 def evaluate_offline(model, corpus):
@@ -17,13 +16,10 @@ def evaluate_offline(model, corpus):
     for sample in corpus:
         sample_total.append(sample)
 
-        user_input = sample.text
+        user_input = "".join(sample.text)
         gold = sample
 
-        try:
-            _, result, _, _ = model(user_input)
-        except ValueError:
-            result = Sequence(user_input)
+        raw_input_text, result, tags_seq, failed = model(user_input)
 
         if gold == result:
             sample_right.append(gold)
