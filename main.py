@@ -1,13 +1,14 @@
 import collections
 import pickle
 import sys
+from typing import Callable
 
 from tokenizer_tools.tagset.offset.corpus import Corpus
 
 from seq2annotation.server.http import load_predict_fn
 
 
-def evaluate_offline(model, corpus):
+def evaluate_offline(model: Callable, corpus: Corpus):
     sample_right = []
     sample_total = []
     span_total = collections.defaultdict(list)
@@ -21,6 +22,7 @@ def evaluate_offline(model, corpus):
 
         raw_input_text, result, tags_seq, failed = model(user_input)
 
+        # TODO(xiaoquan.kong): don't count decode failed result
         if gold == result:
             sample_right.append(gold)
 
