@@ -17,9 +17,6 @@ COPY . /app
 
 RUN pip install -r ./requirements.txt
 
-# for fix a stupid bug cased by UCloud which always access /usr/bin/python as python bin
-RUN ln -s /usr/bin/python3 /usr/bin/python
-
 ## Application related part start ##
 
 RUN mkdir /data
