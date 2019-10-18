@@ -11,6 +11,7 @@ RUN locale-gen en_US.UTF-8
 ENV LANG='en_US.UTF-8' LANGUAGE='en_US:en' LC_ALL='en_US.UTF-8'
 
 RUN mkdir /app
+WORKDIR /app
 # current dir must be project root
 COPY . /app
 
@@ -23,7 +24,5 @@ RUN ln -s /usr/bin/python3 /usr/bin/python
 
 RUN mkdir /data
 RUN mkdir /model
-
-WORKDIR /app
 
 CMD ["bash", "entry.bash"]
