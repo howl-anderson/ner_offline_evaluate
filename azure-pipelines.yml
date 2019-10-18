@@ -15,25 +15,25 @@ steps:
     versionSpec: '$(python.version)'
   displayName: 'Use Python $(python.version)'
 
-- script: |
-    pip install -e .
-  displayName: 'Install myself'
+# - script: |
+#     pip install -e .
+#   displayName: 'Install myself'
 
-- script: |
-    pip install -r ./dev_requirements.txt
-    pip install -r ./test_requirements.txt
-  displayName: 'Install depdnencies'
+# - script: |
+#     pip install -r ./dev_requirements.txt
+#     pip install -r ./test_requirements.txt
+#   displayName: 'Install depdnencies'
 
-- script: |
-    make test
-  displayName: 'run test'
+# - script: |
+#     make test
+#   displayName: 'run test'
 
-- script: |
-    make dist
-  displayName: 'build pacakge'
+# - script: |
+#     make dist
+#   displayName: 'build pacakge'
   
 - task: PublishPipelineArtifact@1
   inputs:
     targetPath: '$(System.DefaultWorkingDirectory)'
-    artifact: 'seq2annotaion_package'
+    artifact: 'offline_ner_evaluate_package'
   displayName: 'Publish artifact'
