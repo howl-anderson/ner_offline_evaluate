@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 
-python ./main.py ./blackbox_tests/model ./blackbox_tests/data/test.conllx
+python ./main.py /model /data/test.conllx
