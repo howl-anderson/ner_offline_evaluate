@@ -21,5 +21,6 @@ RUN pip install -r ./requirements.txt
 
 RUN mkdir /data
 RUN mkdir /model
+RUN mkdir /output
 
 CMD ["bash", "entry.bash"]
