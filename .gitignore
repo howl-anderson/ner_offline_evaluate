@@ -2,3 +2,6 @@ report.pdf
 data.csv
 result.pkl
 .idea
+data/
+model/
+output/

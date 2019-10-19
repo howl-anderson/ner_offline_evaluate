@@ -1,0 +1,9 @@
+version: '3'
+services:
+  seq2annotation_trainer:
+     image: howlanderson.azurecr.io/ner_offline_evaluate
+     container_name: ner_offline_evaluate_container
+     volumes:
+       - ./data:/data
+       - ./model:/model
+       - ./output:/output
