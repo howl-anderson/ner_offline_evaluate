@@ -4,11 +4,13 @@ LABEL version="0.0.1-beta"
 
 RUN echo 'debconf debconf/frontend select Noninteractive' | debconf-set-selections
 
-RUN DEBIAN_FRONTEND=noninteractive apt-get update && apt-get install -y git
+ENV DEBIAN_FRONTEND=noninteractive
 
-RUN DEBIAN_FRONTEND=noninteractive apt-get install -y locales
+RUN apt-get update && apt-get install -y git
+RUN apt-get install -y locales locales-all
 RUN locale-gen en_US.UTF-8
-ENV LANG='en_US.UTF-8' LANGUAGE='en_US:en' LC_ALL='en_US.UTF-8'
+ENV LANG='en_US.UTF-8' LANGUAGE='en_US.UTF-8' LC_ALL='en_US.UTF-8'
+RUN dpkg-reconfigure locales
 
 RUN mkdir /app
 WORKDIR /app
