@@ -5,7 +5,7 @@ from typing import Callable
 
 from tokenizer_tools.tagset.offset.corpus import Corpus
 
-from seq2annotation.server.http import load_predict_fn
+from deliverable_model.serving import SimpleModelInference
 
 
 def evaluate_offline(model: Callable, corpus: Corpus):
@@ -15,13 +15,15 @@ def evaluate_offline(model: Callable, corpus: Corpus):
     span_total = collections.defaultdict(list)
     span_right = collections.defaultdict(list)
 
-    for sample in corpus:
-        sample_total.append(sample)
+    input_for_predict = ["".join(i.text) for i in corpus]
 
-        user_input = "".join(sample.text)
-        gold = sample
+    predict_result = list(model(input_for_predict))
 
-        raw_input_text, result, tags_seq, failed = model(user_input)
+    for gold, predict_result in zip(corpus, predict_result):
+        result = predict_result.sequence
+        failed = predict_result.is_failed
+
+        sample_total.append(gold)
 
         if failed:
             sample_decode_failed.append(gold)
@@ -39,10 +41,10 @@ def evaluate_offline(model: Callable, corpus: Corpus):
 
 
 if __name__ == "__main__":
-    server = load_predict_fn(sys.argv[1])
+    server = SimpleModelInference(sys.argv[1])
     corpus = Corpus.read_from_file(sys.argv[2])
 
-    sample_total, sample_right, sample_decode_failed, span_total, span_right = evaluate_offline(server.infer, corpus)
+    sample_total, sample_right, sample_decode_failed, span_total, span_right = evaluate_offline(server.parse, corpus)
     sample_correct_rate = len(sample_right) / len(sample_total)
 
     span_correct_rate = dict()
