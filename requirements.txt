@@ -1,2 +1,2 @@
-seq2annotation
+deliverable_model
 pdf_reports
